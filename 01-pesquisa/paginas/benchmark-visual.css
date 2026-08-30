@@ -1,0 +1,9 @@
+.bench{overflow-x:auto;padding-bottom:8px}
+.bench-row{display:grid;grid-template-columns:120px repeat(5,minmax(200px,1fr));gap:10px;min-width:1180px;margin-bottom:10px}
+.bench-row .lbl{display:flex;align-items:center;font-size:12px;font-weight:700;color:var(--dim);text-transform:uppercase;letter-spacing:.05em}
+.bench-row .col{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--card)}
+.bench-row .col.hi{border-color:var(--acc-txt);box-shadow:0 0 0 1px var(--acc-txt)}
+.bench-row .col .h{padding:8px 10px;font-size:12px;font-weight:700;background:var(--bg2);border-bottom:1px solid var(--line)}
+.bench-row .col .frame{height:340px;overflow-y:auto;background:#fff}
+.bench-row .col .frame img{width:100%;display:block}
+.bench-row .col .missing{height:340px;display:flex;align-items:center;justify-content:center;font-size:12px;color:var(--dim2);text-align:center;padding:12px}

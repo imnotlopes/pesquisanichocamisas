@@ -1,0 +1,9 @@
+{
+  "expected_carousel_count": 1,
+  "references": [
+    {
+      "reference_file": "carrossel-concorrente/referencia-01.jpg",
+      "prompt": "Professional e-commerce product photography of a men's stretch sport coat in graphite grey, athletic tapered fit, presented on a wooden hanger against a seamless neutral studio background. REFERENCE HIERARCHY: use the attached scene reference (Tailored Athlete homepage lifestyle capture) only as a loose style and lighting-mood reference for an athletic-menswear aesthetic — this is a general brand style reference, not a product-specific PDP, since no competitor sampled in this research shows a blazer PDP directly. Composition should be a clean product-on-hanger shot, centered, with even margins. PRODUCT FIDELITY: lapel structure, button placement, and shoulder construction must match the attached ATHLOS Product Master exactly once available — do not invent design details not present in the Product Master. Lens: 85mm equivalent, soft directional studio lighting to reveal fabric drape, neutral color temperature. Materials: stretch wool-blend suiting fabric, matte finish with subtle texture. Output format: 2048x2048px square, WEBP, sRGB. Restrictions: no logos, no brand marks, no text overlays. Negative prompt: no wrinkles, no distorted lapel geometry, no background clutter."
+    }
+  ]
+}

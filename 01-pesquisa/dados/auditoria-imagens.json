@@ -1,0 +1,23 @@
+{
+  "data": "2026-08-28",
+  "escopo": "Escopo reduzido nesta rodada: 1 imagem de referência de cena por produto (7 produtos), não o carrossel completo de todas as posições de PDP concorrente. Suficiente para prototipar o blueprint; aprofundar por posição fica para quando houver amostra física aprovada do fornecedor.",
+  "review_method": ["revisão visual manual de cada arquivo copiado (produto correto, cena, integridade) antes de vincular ao manifesto"],
+  "summary": {
+    "expected": 7,
+    "downloaded": 7,
+    "correct_product": 7,
+    "unique_scenes": 6,
+    "source_duplicates": 1,
+    "wrong_product": 0,
+    "broken_files": 0
+  },
+  "detalhe": [
+    { "produto": "long-sleeve-performance-dress-shirt", "fonte": "PDP real (SAVID)", "correspondencia": "cena de camisa social — correta" },
+    { "produto": "short-sleeve-performance-dress-shirt", "fonte": "PDP real (Kojo Fit, variante manga longa)", "correspondencia": "cena de camisa social — correta, sem PDP manga-curta disponível na amostra" },
+    { "produto": "performance-polo", "fonte": "Home (Tailored Athlete) — referência de estilo, não PDP de polo", "correspondencia": "sem PDP de polo na amostra; referência de estilo geral" },
+    { "produto": "stretch-chino-ankle-fit", "fonte": "PDP real (Nimble Made, categoria cruzada: camisa)", "correspondencia": "sem PDP de calça na amostra; referência cruzada de categoria" },
+    { "produto": "stretch-sport-coat", "fonte": "Home (Tailored Athlete) — referência de estilo, não PDP de blazer", "correspondencia": "sem PDP de blazer na amostra; duplicata de arquivo-fonte com performance-polo (mesma captura de home)" },
+    { "produto": "performance-leather-look-belt", "fonte": "Home (SAVID) — referência de estilo, não PDP de cinto", "correspondencia": "sem PDP de acessório na amostra; referência de estilo geral" },
+    { "produto": "travel-collar-stay-care-kit", "fonte": "Home (Kojo Fit) — referência de estilo, não PDP de kit", "correspondencia": "sem PDP de acessório na amostra; referência de estilo geral" }
+  ]
+}

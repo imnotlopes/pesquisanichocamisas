@@ -1,0 +1,821 @@
+{
+  "trueformwear.com": {
+    "dominio": "trueformwear.com",
+    "shopify": true,
+    "n": 28,
+    "produtos": [
+      {
+        "t": "Cotton Raglan Muscle Shirt",
+        "preco": 34,
+        "cmp": null,
+        "criado": "2026-08-11",
+        "vendor": "Trueform"
+      },
+      {
+        "t": "Washed Wide Leg Cotton Sweatpants",
+        "preco": 34.99,
+        "cmp": null,
+        "criado": "2026-07-28",
+        "vendor": "Trueform"
+      },
+      {
+        "t": "Rib Knit Relaxed Set",
+        "preco": 49,
+        "cmp": 59,
+        "criado": "2026-06-23",
+        "vendor": "Trueform"
+      },
+      {
+        "t": "Essential Cotton Jogger Shorts",
+        "preco": 24.5,
+        "cmp": null,
+        "criado": "2026-05-26",
+        "vendor": "Trueform"
+      },
+      {
+        "t": "Creatine + Electrolytes Hydration Powder",
+        "preco": 34.5,
+        "cmp": null,
+        "criado": "2026-05-07",
+        "vendor": "Trueform"
+      },
+      {
+        "t": "Beetroot Pump - Natural Nitric Oxide",
+        "preco": 24.5,
+        "cmp": null,
+        "criado": "2026-05-07",
+        "vendor": "Trueform"
+      },
+      {
+        "t": "IGF1 Colostrum - Growth Complex",
+        "preco": 29.99,
+        "cmp": null,
+        "criado": "2026-05-07",
+        "vendor": "Trueform"
+      },
+      {
+        "t": "Vintage Oversized Cotton Tank",
+        "preco": 29.99,
+        "cmp": 25,
+        "criado": "2026-04-24",
+        "vendor": "Trueform"
+      }
+    ],
+    "mais_antigo": "2024-12-03",
+    "title": "Trueform",
+    "apps": [
+      "ali"
+    ],
+    "registro": "nao obtido"
+  },
+  "truefords.com": {
+    "dominio": "truefords.com",
+    "shopify": true,
+    "n": 8,
+    "produtos": [
+      {
+        "t": "calecon",
+        "preco": 0,
+        "cmp": null,
+        "criado": "2026-07-31",
+        "vendor": "TrueFords"
+      },
+      {
+        "t": "chaussette",
+        "preco": 0,
+        "cmp": null,
+        "criado": "2026-07-31",
+        "vendor": "TrueFords"
+      },
+      {
+        "t": "Non-Iron Shirt - Short Sleeve",
+        "preco": 67.9,
+        "cmp": null,
+        "criado": "2026-07-31",
+        "vendor": "TrueFords"
+      },
+      {
+        "t": "TrueFords | Non-Iron Shirt - Short Sleeve",
+        "preco": 67.9,
+        "cmp": null,
+        "criado": "2026-07-30",
+        "vendor": "TrueFords"
+      },
+      {
+        "t": "PrecisionFit™ Trousers",
+        "preco": 79.9,
+        "cmp": 59.9,
+        "criado": "2025-11-03",
+        "vendor": "TrueFords"
+      },
+      {
+        "t": "Wrinkle-Free Tie",
+        "preco": 26.9,
+        "cmp": 29.9,
+        "criado": "2025-11-03",
+        "vendor": "TrueFords"
+      },
+      {
+        "t": "Perfect Bow Tie",
+        "preco": 19.9,
+        "cmp": 24.9,
+        "criado": "2025-11-03",
+        "vendor": "TrueFords"
+      },
+      {
+        "t": "TrueFords | Non-iron shirt",
+        "preco": 67.9,
+        "cmp": null,
+        "criado": "2025-10-19",
+        "vendor": "TrueFords"
+      }
+    ],
+    "mais_antigo": "2025-10-19",
+    "title": "TrueFords",
+    "apps": [
+      "ali",
+      "trustpilot"
+    ],
+    "registro": "nao obtido"
+  },
+  "textale.tech": {
+    "dominio": "textale.tech",
+    "shopify": true,
+    "n": 95,
+    "produtos": [
+      {
+        "t": "_COZY Sherpa Half-Zip",
+        "preco": 65,
+        "cmp": 0,
+        "criado": "2026-09-25",
+        "vendor": "TexTale"
+      },
+      {
+        "t": "_SKIN Pleated Wide-Leg Trousers",
+        "preco": 45,
+        "cmp": 0,
+        "criado": "2026-09-25",
+        "vendor": "TexTale"
+      },
+      {
+        "t": "Bodycon Mini Dress",
+        "preco": 75,
+        "cmp": 0,
+        "criado": "2026-09-24",
+        "vendor": "TexTale"
+      },
+      {
+        "t": "_COZY Textured Knit Henley",
+        "preco": 50,
+        "cmp": 0,
+        "criado": "2026-09-24",
+        "vendor": "TexTale"
+      },
+      {
+        "t": "Suede Retro Sneaker",
+        "preco": 90,
+        "cmp": 0,
+        "criado": "2026-09-20",
+        "vendor": "TexTale"
+      },
+      {
+        "t": "Leather Ballet Sneaker",
+        "preco": 110,
+        "cmp": 0,
+        "criado": "2026-09-20",
+        "vendor": "TexTale"
+      },
+      {
+        "t": "Leather Retro Sneaker",
+        "preco": 90,
+        "cmp": 0,
+        "criado": "2026-09-20",
+        "vendor": "TexTale"
+      },
+      {
+        "t": "Retro Court Sneaker",
+        "preco": 110,
+        "cmp": 0,
+        "criado": "2026-09-20",
+        "vendor": "TexTale"
+      }
+    ],
+    "mais_antigo": "2022-06-05",
+    "title": "TexTale | Premium Men’s Basics in High-Tech, Sustainable Fabrics",
+    "apps": [
+      "okendo",
+      "ali"
+    ],
+    "registro": "nao obtido"
+  },
+  "iviory.com": {
+    "dominio": "iviory.com",
+    "shopify": true,
+    "n": 60,
+    "produtos": [
+      {
+        "t": "Iviory™ SafeGlow — 3-in-1 Emergency Light",
+        "preco": 49.99,
+        "cmp": 89.99,
+        "criado": "2026-09-14",
+        "vendor": "Iviory"
+      },
+      {
+        "t": "Iviory™ Water Leak Alarm",
+        "preco": 69.99,
+        "cmp": 139.99,
+        "criado": "2026-09-14",
+        "vendor": "Iviory"
+      },
+      {
+        "t": "Iviory™ Fire Blanket",
+        "preco": 49.99,
+        "cmp": 89.99,
+        "criado": "2026-09-14",
+        "vendor": "Iviory"
+      },
+      {
+        "t": "Iviory Garment Travel Bag",
+        "preco": 49.99,
+        "cmp": 99.99,
+        "criado": "2026-09-04",
+        "vendor": "Iviory"
+      },
+      {
+        "t": "Iviory Lint Remover",
+        "preco": 49.99,
+        "cmp": 100,
+        "criado": "2026-08-15",
+        "vendor": "Iviory"
+      },
+      {
+        "t": "5-Piece Hanger Set",
+        "preco": 44.99,
+        "cmp": 90,
+        "criado": "2026-08-09",
+        "vendor": "Iviory"
+      },
+      {
+        "t": "2-Year Warranty",
+        "preco": 49.99,
+        "cmp": null,
+        "criado": "2026-08-09",
+        "vendor": "Iviory"
+      },
+      {
+        "t": "Fabric Care Guide",
+        "preco": 49.99,
+        "cmp": null,
+        "criado": "2026-08-09",
+        "vendor": "Iviory"
+      }
+    ],
+    "mais_antigo": "2026-01-02",
+    "title": "Iviory",
+    "apps": [
+      "ali"
+    ],
+    "registro": "nao obtido"
+  },
+  "owndreamshirts.com": {
+    "dominio": "owndreamshirts.com",
+    "shopify": "nao (403)",
+    "title": "Just a moment...",
+    "apps": [],
+    "registro": "nao obtido"
+  },
+  "trytonetec.com": {
+    "dominio": "trytonetec.com",
+    "shopify": true,
+    "n": 9,
+    "produtos": [
+      {
+        "t": "THE BREEZE POLO",
+        "preco": 54.95,
+        "cmp": null,
+        "criado": "2025-03-30",
+        "vendor": "Tone Tec"
+      },
+      {
+        "t": "THE FOUNDATION PANTS",
+        "preco": 64.95,
+        "cmp": 0,
+        "criado": "2025-03-30",
+        "vendor": "Tone Tec"
+      },
+      {
+        "t": "EXECUTIVE SHORT SLEEVE",
+        "preco": 44.95,
+        "cmp": 99.95,
+        "criado": "2025-03-30",
+        "vendor": "Tone Tec"
+      },
+      {
+        "t": "MUSCLE T-SHIRT",
+        "preco": 29.95,
+        "cmp": 0,
+        "criado": "2025-03-30",
+        "vendor": "Tone Tec"
+      },
+      {
+        "t": "5-PACK MID SOCKS",
+        "preco": 29.95,
+        "cmp": null,
+        "criado": "2025-03-29",
+        "vendor": "Tone Tec"
+      },
+      {
+        "t": "5-PACK ANKLE SOCKS",
+        "preco": 29.95,
+        "cmp": null,
+        "criado": "2025-03-29",
+        "vendor": "Tone Tec"
+      },
+      {
+        "t": "2-PACK BOXERS",
+        "preco": 19.99,
+        "cmp": 29.99,
+        "criado": "2024-07-29",
+        "vendor": "Tone Tec"
+      },
+      {
+        "t": "THE EXECUTIVE SHIRT",
+        "preco": 44.95,
+        "cmp": 99.95,
+        "criado": "2024-11-28",
+        "vendor": "Tone Tec"
+      }
+    ],
+    "mais_antigo": "2024-04-23",
+    "title": "TONE TEC",
+    "apps": [
+      "judge.me",
+      "ali"
+    ],
+    "registro": "nao obtido"
+  },
+  "itsimperium.com": {
+    "dominio": "itsimperium.com",
+    "shopify": true,
+    "n": 21,
+    "produtos": [
+      {
+        "t": "Envoy - Pleated Wide Leg Trousers",
+        "preco": 49.95,
+        "cmp": 69.95,
+        "criado": "2026-09-25",
+        "vendor": "IMPERIUM"
+      },
+      {
+        "t": "Regent - Quarter Zip Knit Sweater",
+        "preco": 49.95,
+        "cmp": 69.95,
+        "criado": "2026-09-21",
+        "vendor": "IMPERIUM"
+      },
+      {
+        "t": "Warden - Stand Collar Jacquard Sweater",
+        "preco": 49.95,
+        "cmp": 69.95,
+        "criado": "2026-09-21",
+        "vendor": "IMPERIUM"
+      },
+      {
+        "t": "Atlas - Suede Bomber Jacket",
+        "preco": 69.95,
+        "cmp": null,
+        "criado": "2026-09-20",
+        "vendor": "IMPERIUM"
+      },
+      {
+        "t": "Sentinel - Regular Fit Sherpa Jacket",
+        "preco": 59.95,
+        "cmp": 89.95,
+        "criado": "2026-09-18",
+        "vendor": "Imperium"
+      },
+      {
+        "t": "Meridian - Regular Fit Golf Polo",
+        "preco": 59.95,
+        "cmp": null,
+        "criado": "2026-09-04",
+        "vendor": "Imperium"
+      },
+      {
+        "t": "Citadel - Premium Relaxed Acid Wash Sweatpants",
+        "preco": 59.95,
+        "cmp": 79.95,
+        "criado": "2026-09-01",
+        "vendor": "Imperium"
+      },
+      {
+        "t": "Colossus - Baggy Acid Wash Shorts",
+        "preco": 34.95,
+        "cmp": null,
+        "criado": "2026-09-01",
+        "vendor": "Imperium"
+      }
+    ],
+    "mais_antigo": "2024-02-03",
+    "title": "IMPERIUM • Ropa de hombre con poder absoluto.",
+    "apps": [
+      "stamped",
+      "ali"
+    ],
+    "registro": "nao obtido"
+  },
+  "eunoiacopenhagen.com": {
+    "dominio": "eunoiacopenhagen.com",
+    "shopify": true,
+    "n": 195,
+    "produtos": [
+      {
+        "t": "DANA Color Block Knitted Sweater",
+        "preco": 44,
+        "cmp": 88,
+        "criado": "2026-09-26",
+        "vendor": "Eunoia Copenhagen"
+      },
+      {
+        "t": "ARRON Casual Knit Sweater",
+        "preco": 44,
+        "cmp": 88,
+        "criado": "2026-09-23",
+        "vendor": "Eunoia Copenhagen"
+      },
+      {
+        "t": "CHEKK Grid-Patterned Half-Zip Sweater",
+        "preco": 41.8,
+        "cmp": 85.8,
+        "criado": "2026-09-21",
+        "vendor": "Eunoia Copenhagen"
+      },
+      {
+        "t": "ROLLO Premium Wool Blend Sweatshirt",
+        "preco": 55,
+        "cmp": 110,
+        "criado": "2026-09-21",
+        "vendor": "Eunoia Copenhagen"
+      },
+      {
+        "t": "BORIO Cashmere Buckle-Up Sweater",
+        "preco": 55,
+        "cmp": 110,
+        "criado": "2026-09-18",
+        "vendor": "Eunoia Copenhagen"
+      },
+      {
+        "t": "DREW Cotton-Padded Zipper Vest",
+        "preco": 46.2,
+        "cmp": 92.4,
+        "criado": "2026-09-17",
+        "vendor": "Eunoia Copenhagen"
+      },
+      {
+        "t": "VALON V-Neck Cashmere Sweater",
+        "preco": 44,
+        "cmp": 88,
+        "criado": "2026-09-15",
+        "vendor": "Eunoia Copenhagen"
+      },
+      {
+        "t": "SANDO Multi-pockets Fleece Vest",
+        "preco": 46.2,
+        "cmp": 92.4,
+        "criado": "2026-09-15",
+        "vendor": "Eunoia Copenhagen"
+      }
+    ],
+    "mais_antigo": "2025-03-28",
+    "title": "Eunoia Copenhagen",
+    "apps": [
+      "ali"
+    ],
+    "registro": "nao obtido"
+  },
+  "wearbreeze.co": {
+    "dominio": "wearbreeze.co",
+    "shopify": true,
+    "n": 73,
+    "produtos": [
+      {
+        "t": "Leon - Men’s Ultra Comfortable 2-in-1 Quarter-Zip",
+        "preco": 79,
+        "cmp": 110,
+        "criado": "2026-07-25",
+        "vendor": "Capri"
+      },
+      {
+        "t": "Hudson - Men's Ultra Comfortable Polo Shirt",
+        "preco": 59,
+        "cmp": 90,
+        "criado": "2026-05-29",
+        "vendor": "Capri"
+      },
+      {
+        "t": "Marlow - Men's Ultra Comfortable Herringbone Cap",
+        "preco": 69,
+        "cmp": 90,
+        "criado": "2026-07-26",
+        "vendor": "Capri"
+      },
+      {
+        "t": "Torino - Men's Ultra Comfortable Performance Pants",
+        "preco": 79,
+        "cmp": 120,
+        "criado": "2026-07-18",
+        "vendor": "monitor"
+      },
+      {
+        "t": "Capri - Men's Ultra Comfortable Polo Shirt",
+        "preco": 29,
+        "cmp": 90,
+        "criado": "2025-07-04",
+        "vendor": "monitor"
+      },
+      {
+        "t": "Extra Priority when packing & 100% Insurance",
+        "preco": 4.95,
+        "cmp": 5,
+        "criado": "2024-11-27",
+        "vendor": "Breeze"
+      },
+      {
+        "t": "Colton - Men's Classic Tailored Coat",
+        "preco": 220,
+        "cmp": 220,
+        "criado": "2026-03-29",
+        "vendor": "test"
+      },
+      {
+        "t": "Palermo - Men's Ultra Comfortable Summer Shirt",
+        "preco": 69,
+        "cmp": 90,
+        "criado": "2026-07-18",
+        "vendor": "Capri"
+      }
+    ],
+    "mais_antigo": "2023-04-01",
+    "title": "Breeze - The Home of Outrageously Comfy Apparel",
+    "apps": [
+      "loox",
+      "ali"
+    ],
+    "registro": "nao obtido"
+  },
+  "oakandweston.com": {
+    "dominio": "oakandweston.com",
+    "shopify": true,
+    "n": 22,
+    "produtos": [
+      {
+        "t": "Men's Sherpa Lined Soft Jacket",
+        "preco": 109.95,
+        "cmp": 199.95,
+        "criado": "2026-09-27",
+        "vendor": "Oak & Weston"
+      },
+      {
+        "t": "Washed Wide Leg Cotton Sweatpants",
+        "preco": 34.95,
+        "cmp": 64.95,
+        "criado": "2026-09-24",
+        "vendor": "Oak & Weston"
+      },
+      {
+        "t": "Oak & Weston Drape Shawl (B1G1)",
+        "preco": 69.95,
+        "cmp": 139.9,
+        "criado": "2026-09-10",
+        "vendor": "Oak & Weston"
+      },
+      {
+        "t": "Oak & Weston Athletic Fit Stretch Pants",
+        "preco": 39.95,
+        "cmp": 59.95,
+        "criado": "2026-09-04",
+        "vendor": "Oakandweston"
+      },
+      {
+        "t": "Compression Tank",
+        "preco": 19.95,
+        "cmp": 39.95,
+        "criado": "2026-08-19",
+        "vendor": "Oak & Weston"
+      },
+      {
+        "t": "Oak & Weston Compression Tank",
+        "preco": 29.95,
+        "cmp": 39.95,
+        "criado": "2026-08-18",
+        "vendor": "Oak & Weston"
+      },
+      {
+        "t": "Oak & Weston Muscle T-Shirt",
+        "preco": 31.95,
+        "cmp": 70,
+        "criado": "2026-08-02",
+        "vendor": "Oak & Weston"
+      },
+      {
+        "t": "Executive Split-Vamp Dress Shoes",
+        "preco": 59.99,
+        "cmp": 179.99,
+        "criado": "2026-07-22",
+        "vendor": "Renova"
+      }
+    ],
+    "mais_antigo": "2026-06-22",
+    "title": "Oak & Weston",
+    "apps": [
+      "judge.me",
+      "ali"
+    ],
+    "registro": "nao obtido"
+  },
+  "gotieless.com": {
+    "dominio": "gotieless.com",
+    "shopify": true,
+    "n": 22,
+    "produtos": [
+      {
+        "t": "goTIELESS Perfect Placket Polo",
+        "preco": 69.99,
+        "cmp": null,
+        "criado": "2025-08-09",
+        "vendor": "goTIELESS"
+      },
+      {
+        "t": "FLXCUF - The Fix for Slipping Sleeves.",
+        "preco": 9.99,
+        "cmp": null,
+        "criado": "2025-08-21",
+        "vendor": "FLXCUF"
+      },
+      {
+        "t": "goTIELESS Ultimate Dress Shirt (Light Green)",
+        "preco": 79.99,
+        "cmp": null,
+        "criado": "2025-06-15",
+        "vendor": "goTIELESS"
+      },
+      {
+        "t": "goTIELESS Ultimate Dress Shirt (Coral)",
+        "preco": 79.99,
+        "cmp": null,
+        "criado": "2025-06-15",
+        "vendor": "goTIELESS"
+      },
+      {
+        "t": "goTIELESS Ultimate Dress Shirt (Blue Power Stripe)",
+        "preco": 79.99,
+        "cmp": null,
+        "criado": "2025-06-15",
+        "vendor": "goTIELESS"
+      },
+      {
+        "t": "goTIELESS Ultimate Dress Shirt (White Royal Palm)",
+        "preco": 79.99,
+        "cmp": null,
+        "criado": "2024-10-22",
+        "vendor": "goTIELESS"
+      },
+      {
+        "t": "goTIELESS Ultimate Dress Shirt (Army Green)",
+        "preco": 79.99,
+        "cmp": null,
+        "criado": "2024-10-22",
+        "vendor": "goTIELESS"
+      },
+      {
+        "t": "goTIELESS Ultimate Dress Shirt (Blue Diamond)",
+        "preco": 79.99,
+        "cmp": null,
+        "criado": "2024-10-22",
+        "vendor": "goTIELESS"
+      }
+    ],
+    "mais_antigo": "2019-09-15",
+    "title": "The Best Business Casual Shirts for Men | goTIELESS",
+    "apps": [
+      "ali"
+    ],
+    "registro": "nao obtido"
+  },
+  "twillory.com": {
+    "dominio": "twillory.com",
+    "shopify": true,
+    "n": 250,
+    "produtos": [
+      {
+        "t": "untuck(able) Denim Windowpane",
+        "preco": 69,
+        "cmp": 99,
+        "criado": "2022-07-26",
+        "vendor": "Twillory"
+      },
+      {
+        "t": "Non-Iron Blue Windowpane Twill",
+        "preco": 69,
+        "cmp": 99,
+        "criado": "2022-07-21",
+        "vendor": "Twillory"
+      },
+      {
+        "t": "Non-Iron Sky Windowpane",
+        "preco": 69,
+        "cmp": 99,
+        "criado": "2022-06-23",
+        "vendor": "Twillory"
+      },
+      {
+        "t": "Leader Non-Iron Contrast | Grey Buttons",
+        "preco": 99,
+        "cmp": 99,
+        "criado": "2025-11-05",
+        "vendor": "Twillory"
+      },
+      {
+        "t": "Lightweight Cashmere Button-Down | Navy",
+        "preco": 84,
+        "cmp": 84,
+        "criado": "2026-09-14",
+        "vendor": "Twillory"
+      },
+      {
+        "t": "Lightweight Cashmere Button-Down | Black",
+        "preco": 84,
+        "cmp": 84,
+        "criado": "2026-09-14",
+        "vendor": "Twillory"
+      },
+      {
+        "t": "Lightweight Cashmere Button-Down | Heather Light Grey",
+        "preco": 84,
+        "cmp": 84,
+        "criado": "2026-09-14",
+        "vendor": "Twillory"
+      },
+      {
+        "t": "Lightweight Cashmere Button-Down | Heather Ivory",
+        "preco": 84,
+        "cmp": 84,
+        "criado": "2026-09-14",
+        "vendor": "Twillory"
+      }
+    ],
+    "mais_antigo": "2019-09-26",
+    "title": "Twillory | Performance Clothing with Better Fabrics &amp; Pricing",
+    "apps": [
+      "yotpo",
+      "ali"
+    ],
+    "registro": "nao obtido"
+  },
+  "jamesalden.com": {
+    "dominio": "jamesalden.com",
+    "erro": "fetch failed",
+    "registro": "nao obtido"
+  },
+  "wearstretto.com": {
+    "dominio": "wearstretto.com",
+    "shopify": true,
+    "n": 4,
+    "produtos": [
+      {
+        "t": "Stretto's All-Day Stretch Dress Pants (Copy) NEW SIZING",
+        "preco": 39.99,
+        "cmp": 59.99,
+        "criado": "2026-04-18",
+        "vendor": "Stretto"
+      },
+      {
+        "t": "Stretto's All-Day Stretch Golf Pants",
+        "preco": 39.99,
+        "cmp": 59.99,
+        "criado": "2026-04-14",
+        "vendor": "Stretto"
+      },
+      {
+        "t": "The Stretto Dress Shirt",
+        "preco": 39.99,
+        "cmp": null,
+        "criado": "2026-04-02",
+        "vendor": "Stretto"
+      },
+      {
+        "t": "Stretto's All-Day Stretch Dress Pants",
+        "preco": 39.99,
+        "cmp": 59.99,
+        "criado": "2026-02-12",
+        "vendor": "Stretto"
+      }
+    ],
+    "mais_antigo": "2026-02-12",
+    "title": "Stretto",
+    "apps": [
+      "ali"
+    ],
+    "registro": "nao obtido"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": "2026-08-28",
+  "fonte": "conector Meta Ads (ads_library_search, page_ids, ACTIVE e ALL)",
+  "lojas": [
+    {
+      "loja": "Tailored Athlete",
+      "dominio": "tailoredathlete.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "484388168434320"
+      ],
+      "tentativas": [
+        "search_terms=tailoredathlete.com (ALL, sem pais)",
+        "page_ids=484388168434320 (ACTIVE)",
+        "page_ids=484388168434320 (ALL)"
+      ],
+      "reportado": {
+        "ativos": 1114,
+        "historico": 5309
+      },
+      "biblioteca": {
+        "ativos": 1114,
+        "historico": 5309
+      },
+      "nota": "Confirmado por page_id. Busca por domínio (texto) trouxe contagem ALL menor (472) que a busca direta por page_id (5309) — page_id é a fonte usada na ficha, por ser mais completa."
+    },
+    {
+      "loja": "Kojo Fit",
+      "dominio": "kojofit.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "2071193272951404"
+      ],
+      "tentativas": [
+        "search_terms=kojofit.com (ALL, sem pais)",
+        "page_ids=2071193272951404 (ACTIVE)",
+        "page_ids=2071193272951404 (ALL)"
+      ],
+      "reportado": {
+        "ativos": 249,
+        "historico": 477
+      },
+      "biblioteca": {
+        "ativos": 249,
+        "historico": 477
+      },
+      "nota": "Confirmado por page_id, consistente entre busca por domínio e por page_id."
+    },
+    {
+      "loja": "SAVID",
+      "dominio": "trysavid.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "1106485389219410"
+      ],
+      "tentativas": [
+        "search_terms=trysavid.com (ALL, sem pais)",
+        "page_ids=1106485389219410 (ACTIVE)"
+      ],
+      "reportado": {
+        "ativos": 12,
+        "historico": 12
+      },
+      "biblioteca": {
+        "ativos": 12,
+        "historico": 12
+      },
+      "nota": "100% dos anúncios seguem ativos — operação nova, ainda testando."
+    },
+    {
+      "loja": "Nimble Made",
+      "dominio": "nimble-made.com",
+      "metodo": "nao_encontrado",
+      "page_ids": [],
+      "tentativas": [
+        "search_terms=nimble-made.com (retorno genérico não relacionado)",
+        "search_terms=Nimble Made (retorno genérico não relacionado)",
+        "search_terms=nimblemade.com (0 resultados limpo)",
+        "search_terms=NimbleMade (retorno genérico não relacionado)"
+      ],
+      "reportado": {
+        "ativos": 0,
+        "historico": 0
+      },
+      "biblioteca": {
+        "ativos": 0,
+        "historico": 0
+      },
+      "nota": "NÃO OBTIDO — os valores 0 acima significam ausência de page_id confirmado, não contagem real de zero anúncios. A ferramenta MCP retornou resultado genérico não relacionado (dramas/novelas) em duas tentativas e 0 limpo em outras duas, sem nunca encontrar a página da marca. Não reportar como concorrente sem mídia paga."
+    },
+    {
+      "loja": "Buffery",
+      "dominio": "buffery.us",
+      "metodo": "nao_encontrado",
+      "page_ids": [],
+      "tentativas": [
+        "search_terms=buffery.us (retorno genérico não relacionado)",
+        "search_terms=Buffery (retorno genérico não relacionado)",
+        "search_terms=Buffery Flex Uniforms (0 resultados limpo)"
+      ],
+      "reportado": {
+        "ativos": 0,
+        "historico": 0
+      },
+      "biblioteca": {
+        "ativos": 0,
+        "historico": 0
+      },
+      "nota": "NÃO OBTIDO — mesma limitação de ferramenta que Nimble Made. Não reportar como concorrente sem mídia paga."
+    }
+  ],
+  "resultado": {
+    "avaliado_em": "2026-08-28",
+    "aprovado": true,
+    "problemas": [],
+    "avisos": [],
+    "lojas": [
+      {
+        "loja": "Tailored Athlete",
+        "dominio": "tailoredathlete.com",
+        "metodo": "dominio",
+        "reportado_ativos": 1114,
+        "biblioteca_ativos": 1114,
+        "biblioteca_historico": 5309,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Kojo Fit",
+        "dominio": "kojofit.com",
+        "metodo": "dominio",
+        "reportado_ativos": 249,
+        "biblioteca_ativos": 249,
+        "biblioteca_historico": 477,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "SAVID",
+        "dominio": "trysavid.com",
+        "metodo": "dominio",
+        "reportado_ativos": 12,
+        "biblioteca_ativos": 12,
+        "biblioteca_historico": 12,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Nimble Made",
+        "dominio": "nimble-made.com",
+        "metodo": "nao_encontrado",
+        "reportado_ativos": 0,
+        "biblioteca_ativos": 0,
+        "biblioteca_historico": 0,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Buffery",
+        "dominio": "buffery.us",
+        "metodo": "nao_encontrado",
+        "reportado_ativos": 0,
+        "biblioteca_ativos": 0,
+        "biblioteca_historico": 0,
+        "divergencia_pct": 0,
+        "ok": true
+      }
+    ]
+  }
+}

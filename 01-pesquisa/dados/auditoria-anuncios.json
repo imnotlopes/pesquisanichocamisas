@@ -1,6 +1,6 @@
 {
-  "data": "2026-08-28",
-  "fonte": "conector Meta Ads (ads_library_search, page_ids, ACTIVE e ALL)",
+  "data": "2026-09-27",
+  "fonte": "conector Meta Ads (ads_library_search), page_ids, ACTIVE e ALL, sem filtro de pais; Nimble Made e Buffery conferidas tambem na Biblioteca publica (view_all_page_id), com a SAVID como controle",
   "lojas": [
     {
       "loja": "Tailored Athlete",
@@ -15,14 +15,14 @@
         "page_ids=484388168434320 (ALL)"
       ],
       "reportado": {
-        "ativos": 1114,
-        "historico": 5309
+        "ativos": 1575,
+        "historico": 5729
       },
       "biblioteca": {
-        "ativos": 1114,
-        "historico": 5309
+        "ativos": 1575,
+        "historico": 5729
       },
-      "nota": "Confirmado por page_id. Busca por domínio (texto) trouxe contagem ALL menor (472) que a busca direta por page_id (5309) — page_id é a fonte usada na ficha, por ser mais completa."
+      "nota": "Confirmado por page_id. Busca por domínio (texto) trouxe contagem ALL menor (472) que a busca direta por page_id (5309) — page_id é a fonte usada na ficha, por ser mais completa. Recontado em 27/09."
     },
     {
       "loja": "Kojo Fit",
@@ -37,14 +37,14 @@
         "page_ids=2071193272951404 (ALL)"
       ],
       "reportado": {
-        "ativos": 249,
-        "historico": 477
+        "ativos": 228,
+        "historico": 673
       },
       "biblioteca": {
-        "ativos": 249,
-        "historico": 477
+        "ativos": 228,
+        "historico": 673
       },
-      "nota": "Confirmado por page_id, consistente entre busca por domínio e por page_id."
+      "nota": "Confirmado por page_id, consistente entre busca por domínio e por page_id. Recontado em 27/09."
     },
     {
       "loja": "SAVID",
@@ -58,25 +58,31 @@
         "page_ids=1106485389219410 (ACTIVE)"
       ],
       "reportado": {
-        "ativos": 12,
-        "historico": 12
+        "ativos": 28,
+        "historico": 28
       },
       "biblioteca": {
-        "ativos": 12,
-        "historico": 12
+        "ativos": 28,
+        "historico": 28
       },
-      "nota": "100% dos anúncios seguem ativos — operação nova, ainda testando."
+      "nota": "100% dos anúncios seguem ativos — operação nova, ainda testando. Recontado em 27/09."
     },
     {
       "loja": "Nimble Made",
       "dominio": "nimble-made.com",
-      "metodo": "nao_encontrado",
-      "page_ids": [],
+      "metodo": "rodape",
+      "page_ids": [
+        "223454095002324"
+      ],
       "tentativas": [
         "search_terms=nimble-made.com (retorno genérico não relacionado)",
         "search_terms=Nimble Made (retorno genérico não relacionado)",
         "search_terms=nimblemade.com (0 resultados limpo)",
-        "search_terms=NimbleMade (retorno genérico não relacionado)"
+        "search_terms=NimbleMade (retorno genérico não relacionado)",
+        "27/09: page_id lido no HTML de facebook.com/nimblemade (link do rodape do site)",
+        "page_ids=223454095002324 (ACTIVE) = 0",
+        "page_ids=223454095002324 (ALL) = 0",
+        "Biblioteca publica view_all_page_id, active e all: No ads match (SAVID como controle: ~28 results)"
       ],
       "reportado": {
         "ativos": 0,
@@ -86,17 +92,23 @@
         "ativos": 0,
         "historico": 0
       },
-      "nota": "NÃO OBTIDO — os valores 0 acima significam ausência de page_id confirmado, não contagem real de zero anúncios. A ferramenta MCP retornou resultado genérico não relacionado (dramas/novelas) em duas tentativas e 0 limpo em outras duas, sem nunca encontrar a página da marca. Não reportar como concorrente sem mídia paga."
+      "nota": "Obtido em 27/09: a loja nao roda anuncio na Meta (0 ativos, 0 no historico). Tambem 0 no Google Ads Transparency Center."
     },
     {
       "loja": "Buffery",
       "dominio": "buffery.us",
-      "metodo": "nao_encontrado",
-      "page_ids": [],
+      "metodo": "rodape",
+      "page_ids": [
+        "109092653951204"
+      ],
       "tentativas": [
         "search_terms=buffery.us (retorno genérico não relacionado)",
         "search_terms=Buffery (retorno genérico não relacionado)",
-        "search_terms=Buffery Flex Uniforms (0 resultados limpo)"
+        "search_terms=Buffery Flex Uniforms (0 resultados limpo)",
+        "27/09: page_id lido no HTML de facebook.com/buffery.us (link do rodape do site)",
+        "page_ids=109092653951204 (ACTIVE) = 0",
+        "page_ids=109092653951204 (ALL) = 0",
+        "Biblioteca publica view_all_page_id, active e all: No ads match (SAVID como controle: ~28 results)"
       ],
       "reportado": {
         "ativos": 0,
@@ -106,11 +118,11 @@
         "ativos": 0,
         "historico": 0
       },
-      "nota": "NÃO OBTIDO — mesma limitação de ferramenta que Nimble Made. Não reportar como concorrente sem mídia paga."
+      "nota": "Obtido em 27/09: a loja nao roda anuncio na Meta (0 ativos, 0 no historico). Tambem 0 no Google Ads Transparency Center."
     }
   ],
   "resultado": {
-    "avaliado_em": "2026-08-28",
+    "avaliado_em": "2026-09-27",
     "aprovado": true,
     "problemas": [],
     "avisos": [],
@@ -119,9 +131,9 @@
         "loja": "Tailored Athlete",
         "dominio": "tailoredathlete.com",
         "metodo": "dominio",
-        "reportado_ativos": 1114,
-        "biblioteca_ativos": 1114,
-        "biblioteca_historico": 5309,
+        "reportado_ativos": 1575,
+        "biblioteca_ativos": 1575,
+        "biblioteca_historico": 5729,
         "divergencia_pct": 0,
         "ok": true
       },
@@ -129,9 +141,9 @@
         "loja": "Kojo Fit",
         "dominio": "kojofit.com",
         "metodo": "dominio",
-        "reportado_ativos": 249,
-        "biblioteca_ativos": 249,
-        "biblioteca_historico": 477,
+        "reportado_ativos": 228,
+        "biblioteca_ativos": 228,
+        "biblioteca_historico": 673,
         "divergencia_pct": 0,
         "ok": true
       },
@@ -139,16 +151,16 @@
         "loja": "SAVID",
         "dominio": "trysavid.com",
         "metodo": "dominio",
-        "reportado_ativos": 12,
-        "biblioteca_ativos": 12,
-        "biblioteca_historico": 12,
+        "reportado_ativos": 28,
+        "biblioteca_ativos": 28,
+        "biblioteca_historico": 28,
         "divergencia_pct": 0,
         "ok": true
       },
       {
         "loja": "Nimble Made",
         "dominio": "nimble-made.com",
-        "metodo": "nao_encontrado",
+        "metodo": "rodape",
         "reportado_ativos": 0,
         "biblioteca_ativos": 0,
         "biblioteca_historico": 0,
@@ -158,7 +170,7 @@
       {
         "loja": "Buffery",
         "dominio": "buffery.us",
-        "metodo": "nao_encontrado",
+        "metodo": "rodape",
         "reportado_ativos": 0,
         "biblioteca_ativos": 0,
         "biblioteca_historico": 0,
@@ -166,5 +178,83 @@
         "ok": true
       }
     ]
-  }
+  },
+  "rodada_anterior": {
+    "data": "2026-08-28",
+    "lojas": [
+      {
+        "loja": "Tailored Athlete",
+        "metodo": "dominio",
+        "ativos": 1114,
+        "historico": 5309
+      },
+      {
+        "loja": "Kojo Fit",
+        "metodo": "dominio",
+        "ativos": 249,
+        "historico": 477
+      },
+      {
+        "loja": "SAVID",
+        "metodo": "dominio",
+        "ativos": 12,
+        "historico": 12
+      },
+      {
+        "loja": "Nimble Made",
+        "metodo": "nao_encontrado",
+        "ativos": 0,
+        "historico": 0
+      },
+      {
+        "loja": "Buffery",
+        "metodo": "nao_encontrado",
+        "ativos": 0,
+        "historico": 0
+      }
+    ]
+  },
+  "novos_entrantes_contados": [
+    {
+      "loja": "Truefords",
+      "page_ids": [
+        "1082359711619236"
+      ],
+      "ativos": 425,
+      "historico": 2103
+    },
+    {
+      "loja": "Trueform",
+      "page_ids": [
+        "1232144683309943",
+        "282042638315312"
+      ],
+      "ativos": 497,
+      "historico": 1181
+    },
+    {
+      "loja": "Stretto",
+      "page_ids": [
+        "1076091105582306"
+      ],
+      "ativos": 117,
+      "historico": 188
+    },
+    {
+      "loja": "Tone Tec",
+      "page_ids": [
+        "436444686210170"
+      ],
+      "ativos": 87,
+      "historico": 1198
+    },
+    {
+      "loja": "James Alden (henrycoleco.com)",
+      "page_ids": [
+        "713159881890971"
+      ],
+      "ativos": 27,
+      "historico": 219
+    }
+  ]
 }

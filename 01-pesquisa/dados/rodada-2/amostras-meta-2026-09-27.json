@@ -1,0 +1,122 @@
+{
+  "Tailored Athlete": {
+    "n": 50,
+    "criado_mais_novo": "2026-09-25 13:19",
+    "criado_mais_antigo": "2026-09-23 16:18",
+    "janela_dias": 1.88,
+    "criativos_unicos": 5,
+    "duplicacao": 10,
+    "por_titulo": [
+      {
+        "titulo": "Joel Berg",
+        "qtd": 20,
+        "primeiro": "2026-09-25 11:50"
+      },
+      {
+        "titulo": "Premium Denim. Built To Move.",
+        "qtd": 16,
+        "primeiro": "2026-09-23 16:18"
+      },
+      {
+        "titulo": "Danilo Sipovac",
+        "qtd": 10,
+        "primeiro": "2026-09-25 11:56"
+      },
+      {
+        "titulo": "DeMarcus Gilliard",
+        "qtd": 2,
+        "primeiro": "2026-09-25 13:11"
+      },
+      {
+        "titulo": "Adam Jackson",
+        "qtd": 2,
+        "primeiro": "2026-09-25 13:12"
+      }
+    ]
+  },
+  "Kojo Fit": {
+    "n": 50,
+    "criado_mais_novo": "2026-09-26 23:26",
+    "criado_mais_antigo": "2026-09-24 09:34",
+    "janela_dias": 2.58,
+    "criativos_unicos": 10,
+    "duplicacao": 5,
+    "por_titulo": [
+      {
+        "titulo": "Dress Code: Hot",
+        "qtd": 12,
+        "primeiro": "2026-09-26 11:16"
+      },
+      {
+        "titulo": "You Looked Twice",
+        "qtd": 10,
+        "primeiro": "2026-09-24 09:34"
+      },
+      {
+        "titulo": "The Tee That Keeps Its Shape",
+        "qtd": 9,
+        "primeiro": "2026-09-26 22:10"
+      },
+      {
+        "titulo": "Not Your Dad's Polo",
+        "qtd": 8,
+        "primeiro": "2026-09-26 23:13"
+      },
+      {
+        "titulo": "Built For Compliments",
+        "qtd": 5,
+        "primeiro": "2026-09-26 11:33"
+      },
+      {
+        "titulo": "You Run Hot? Wear These",
+        "qtd": 2,
+        "primeiro": "2026-09-24 09:34"
+      },
+      {
+        "titulo": "(sem título)",
+        "qtd": 1,
+        "primeiro": "2026-09-26 04:27"
+      },
+      {
+        "titulo": "Fit, Style, Comfort. Have It All",
+        "qtd": 1,
+        "primeiro": "2026-09-24 09:34"
+      },
+      {
+        "titulo": "5 Inches. That's All You Need",
+        "qtd": 1,
+        "primeiro": "2026-09-24 09:34"
+      },
+      {
+        "titulo": "Ultra-Stretch Chino Shorts",
+        "qtd": 1,
+        "primeiro": "2026-09-24 09:34"
+      }
+    ]
+  },
+  "SAVID": {
+    "n": 28,
+    "criado_mais_novo": "2026-09-18 05:20",
+    "criado_mais_antigo": "2026-08-20 04:15",
+    "janela_dias": 29.05,
+    "criativos_unicos": 3,
+    "duplicacao": 9.3,
+    "por_titulo": [
+      {
+        "titulo": "No Ironing. No Wrinkles.",
+        "qtd": 13,
+        "primeiro": "2026-08-24 22:35"
+      },
+      {
+        "titulo": "(sem título)",
+        "qtd": 11,
+        "primeiro": "2026-08-20 04:15"
+      },
+      {
+        "titulo": "Flex Weave Dress Shirts",
+        "qtd": 4,
+        "primeiro": "2026-09-09 01:36"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "metodo": "CrUX top lists por pais (Chrome), modelo calibrado de estimar.mjs das luminarias; incerteza x/÷2,5; cego ao navegador interno do Instagram/Facebook",
+  "meses": {
+    "202606": {
+      "Tailored Athlete": {
+        "total": 488820,
+        "pais": {
+          "us": 383237,
+          "gb": 84793,
+          "ca": 12219,
+          "au": 8571
+        },
+        "faixas": {
+          "us:tailoredathlete.com": 50000,
+          "us:tailoredathlete.co.uk": 1000000,
+          "gb:tailoredathlete.co.uk": 50000,
+          "gb:tailoredathlete.com": 500000,
+          "ca:tailoredathlete.co.uk": 100000,
+          "ca:tailoredathlete.com": 500000,
+          "au:tailoredathlete.co.uk": 100000,
+          "au:tailoredathlete.com": 500000
+        },
+        "baixa": 195528,
+        "alta": 1222050,
+        "pct_us": 78
+      },
+      "Kojo Fit": {
+        "total": 68898,
+        "pais": {
+          "us": 19429,
+          "gb": 18266,
+          "ca": 652,
+          "au": 30551
+        },
+        "faixas": {
+          "us:kojofit.com": 500000,
+          "gb:kojofit.com": 100000,
+          "ca:kojofit.com": 1000000,
+          "au:kojofit.com": 50000
+        },
+        "baixa": 27559,
+        "alta": 172245,
+        "pct_us": 28
+      },
+      "Nimble Made": {
+        "total": 9255,
+        "pais": {
+          "us": 4400,
+          "gb": 947,
+          "ca": 2256,
+          "au": 1652
+        },
+        "faixas": {
+          "us:nimble-made.com": 1000000,
+          "gb:nimble-made.com": 1000000,
+          "ca:nimble-made.com": 500000,
+          "au:nimble-made.com": 500000
+        },
+        "baixa": 3702,
+        "alta": 23138,
+        "pct_us": 48
+      }
+    },
+    "202607": {
+      "Tailored Athlete": {
+        "total": 487168,
+        "pais": {
+          "us": 383237,
+          "gb": 84793,
+          "ca": 12219,
+          "au": 6919
+        },
+        "faixas": {
+          "us:tailoredathlete.com": 50000,
+          "us:tailoredathlete.co.uk": 1000000,
+          "gb:tailoredathlete.co.uk": 50000,
+          "gb:tailoredathlete.com": 500000,
+          "ca:tailoredathlete.co.uk": 100000,
+          "ca:tailoredathlete.com": 500000,
+          "au:tailoredathlete.co.uk": 100000
+        },
+        "baixa": 194867,
+        "alta": 1217920,
+        "pct_us": 79
+      },
+      "Kojo Fit": {
+        "total": 68246,
+        "pais": {
+          "us": 19429,
+          "gb": 18266,
+          "au": 30551
+        },
+        "faixas": {
+          "us:kojofit.com": 500000,
+          "gb:kojofit.com": 100000,
+          "au:kojofit.com": 50000
+        },
+        "baixa": 27298,
+        "alta": 170615,
+        "pct_us": 28
+      },
+      "Nimble Made": {
+        "total": 4860,
+        "pais": {
+          "gb": 955,
+          "ca": 2256,
+          "au": 1649
+        },
+        "faixas": {
+          "gb:nimble-made.com": 1000000,
+          "ca:nimble-made.com": 500000,
+          "au:nimble-made.com": 500000
+        },
+        "baixa": 1944,
+        "alta": 12150,
+        "pct_us": 0
+      }
+    },
+    "202608": {
+      "Tailored Athlete": {
+        "total": 487168,
+        "pais": {
+          "us": 383237,
+          "gb": 84793,
+          "ca": 12219,
+          "au": 6919
+        },
+        "faixas": {
+          "us:tailoredathlete.com": 50000,
+          "us:tailoredathlete.co.uk": 1000000,
+          "gb:tailoredathlete.co.uk": 50000,
+          "gb:tailoredathlete.com": 500000,
+          "ca:tailoredathlete.co.uk": 100000,
+          "ca:tailoredathlete.com": 500000,
+          "au:tailoredathlete.co.uk": 100000
+        },
+        "baixa": 194867,
+        "alta": 1217920,
+        "pct_us": 79
+      },
+      "Kojo Fit": {
+        "total": 68246,
+        "pais": {
+          "us": 19429,
+          "gb": 18266,
+          "au": 30551
+        },
+        "faixas": {
+          "us:kojofit.com": 500000,
+          "gb:kojofit.com": 100000,
+          "au:kojofit.com": 50000
+        },
+        "baixa": 27298,
+        "alta": 170615,
+        "pct_us": 28
+      },
+      "Nimble Made": {
+        "total": 1609,
+        "pais": {
+          "gb": 951,
+          "ca": 658
+        },
+        "faixas": {
+          "gb:nimble-made.com": 1000000,
+          "ca:nimble-made.com": 1000000
+        },
+        "baixa": 644,
+        "alta": 4023,
+        "pct_us": 0
+      }
+    }
+  },
+  "novos_entrantes_202608": {
+    "propercloth.com": {
+      "total": 471648,
+      "pais": {
+        "us": 378837,
+        "gb": 18266,
+        "ca": 43994,
+        "au": 30551
+      }
+    },
+    "wearbreeze.co": {
+      "total": 399856,
+      "pais": {
+        "us": 378837,
+        "gb": 4137,
+        "ca": 9963,
+        "au": 6919
+      }
+    },
+    "collarsandco.com": {
+      "total": 382044,
+      "pais": {
+        "us": 378837,
+        "gb": 951,
+        "ca": 2256
+      }
+    },
+    "twillory.com": {
+      "total": 382044,
+      "pais": {
+        "us": 378837,
+        "gb": 951,
+        "ca": 2256
+      }
+    },
+    "trueformwear.com": {
+      "total": 95756,
+      "pais": {
+        "us": 85793,
+        "ca": 9963
+      }
+    },
+    "eunoiacopenhagen.com": {
+      "total": 9238,
+      "pais": {
+        "us": 4400,
+        "gb": 951,
+        "ca": 2256,
+        "au": 1631
+      }
+    },
+    "oakandweston.com": {
+      "total": 9238,
+      "pais": {
+        "us": 4400,
+        "gb": 951,
+        "ca": 2256,
+        "au": 1631
+      }
+    },
+    "textale.tech": {
+      "total": 8287,
+      "pais": {
+        "us": 4400,
+        "ca": 2256,
+        "au": 1631
+      }
+    },
+    "trytonetec.com": {
+      "total": 6656,
+      "pais": {
+        "us": 4400,
+        "ca": 2256
+      }
+    },
+    "gotieless.com": {
+      "total": 4400,
+      "pais": {
+        "us": 4400
+      }
+    },
+    "itsimperium.com": {
+      "total": 4400,
+      "pais": {
+        "us": 4400
+      }
+    },
+    "truefords.com": {
+      "total": 951,
+      "pais": {
+        "gb": 951
+      }
+    }
+  }
+}

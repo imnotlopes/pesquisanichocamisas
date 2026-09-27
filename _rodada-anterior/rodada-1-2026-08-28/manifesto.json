@@ -1,0 +1,120 @@
+[
+  {
+    "id": "3614483035369000",
+    "loja": "SAVID",
+    "titulo": "No Ironing. No Wrinkles.",
+    "status": "ok",
+    "type": "video",
+    "file": "savid-3614483035369000.mp4",
+    "ad_url": "https://www.facebook.com/ads/library/?id=3614483035369000"
+  },
+  {
+    "id": "1229268512678500",
+    "loja": "SAVID",
+    "titulo": "No Ironing. No Wrinkles. (v2)",
+    "status": "ok",
+    "type": "video",
+    "file": "savid-1229268512678500.mp4",
+    "ad_url": "https://www.facebook.com/ads/library/?id=1229268512678500"
+  },
+  {
+    "id": "1063596439727330",
+    "loja": "Kojo Fit",
+    "titulo": "You Looked Twice",
+    "status": "ok",
+    "type": "video",
+    "file": "kojo-fit-1063596439727330.mp4",
+    "ad_url": "https://www.facebook.com/ads/library/?id=1063596439727330"
+  },
+  {
+    "id": "3674745586006224",
+    "loja": "Kojo Fit",
+    "titulo": "5 Inches. That's All You Need",
+    "status": "ok",
+    "type": "image",
+    "file": "kojo-fit-3674745586006224.jpg",
+    "width": 600,
+    "height": 600,
+    "ad_url": "https://www.facebook.com/ads/library/?id=3674745586006224"
+  },
+  {
+    "id": "1035956156091816",
+    "loja": "Kojo Fit",
+    "titulo": "Fit, Style, Comfort. Have It All",
+    "status": "ok",
+    "type": "video",
+    "file": "kojo-fit-1035956156091816.mp4",
+    "ad_url": "https://www.facebook.com/ads/library/?id=1035956156091816"
+  },
+  {
+    "id": "2137018913856071",
+    "loja": "Kojo Fit",
+    "titulo": "Summer Compliment Generator",
+    "status": "ok",
+    "type": "video",
+    "file": "kojo-fit-2137018913856071.mp4",
+    "ad_url": "https://www.facebook.com/ads/library/?id=2137018913856071"
+  },
+  {
+    "id": "1102222968827480",
+    "loja": "Kojo Fit",
+    "titulo": "Dress Code: Hot",
+    "status": "ok",
+    "type": "video",
+    "file": "kojo-fit-1102222968827480.mp4",
+    "ad_url": "https://www.facebook.com/ads/library/?id=1102222968827480"
+  },
+  {
+    "id": "1055879734023243",
+    "loja": "Tailored Athlete",
+    "titulo": "Tailored Without Going To The Tailor",
+    "status": "ok",
+    "type": "image",
+    "file": "tailored-athlete-1055879734023243.jpg",
+    "width": 338,
+    "height": 600,
+    "ad_url": "https://www.facebook.com/ads/library/?id=1055879734023243"
+  },
+  {
+    "id": "927031596569440",
+    "loja": "Tailored Athlete",
+    "titulo": "Confidence You Can Wear",
+    "status": "ok",
+    "type": "image",
+    "file": "tailored-athlete-927031596569440.jpg",
+    "width": 338,
+    "height": 600,
+    "ad_url": "https://www.facebook.com/ads/library/?id=927031596569440"
+  },
+  {
+    "id": "2060304798189416",
+    "loja": "Tailored Athlete",
+    "titulo": "Josh Mair",
+    "status": "ok",
+    "type": "video",
+    "file": "tailored-athlete-2060304798189416.mp4",
+    "ad_url": "https://www.facebook.com/ads/library/?id=2060304798189416"
+  },
+  {
+    "id": "1072320415252516",
+    "loja": "Tailored Athlete",
+    "titulo": "Love at First Fit",
+    "status": "ok",
+    "type": "image",
+    "file": "tailored-athlete-1072320415252516.jpg",
+    "width": 338,
+    "height": 600,
+    "ad_url": "https://www.facebook.com/ads/library/?id=1072320415252516"
+  },
+  {
+    "id": "2106156463611035",
+    "loja": "Tailored Athlete",
+    "titulo": "New Collection. Same Perfect Fit.",
+    "status": "ok",
+    "type": "image",
+    "file": "tailored-athlete-2106156463611035.jpg",
+    "width": 338,
+    "height": 600,
+    "ad_url": "https://www.facebook.com/ads/library/?id=2106156463611035"
+  }
+]

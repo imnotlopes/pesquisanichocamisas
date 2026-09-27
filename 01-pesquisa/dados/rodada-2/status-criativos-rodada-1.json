@@ -1,0 +1,89 @@
+{
+  "data": "2026-09-27",
+  "criativos": [
+    {
+      "id": "3614483035369000",
+      "loja": "SAVID",
+      "titulo": "No Ironing. No Wrinkles.",
+      "status": "fora do ar",
+      "desde": null
+    },
+    {
+      "id": "1229268512678500",
+      "loja": "SAVID",
+      "titulo": "No Ironing. No Wrinkles. (v2)",
+      "status": "fora do ar",
+      "desde": null
+    },
+    {
+      "id": "1063596439727330",
+      "loja": "Kojo Fit",
+      "titulo": "You Looked Twice",
+      "status": "fora do ar",
+      "desde": null
+    },
+    {
+      "id": "3674745586006224",
+      "loja": "Kojo Fit",
+      "titulo": "5 Inches. That's All You Need",
+      "status": "fora do ar",
+      "desde": null
+    },
+    {
+      "id": "1035956156091816",
+      "loja": "Kojo Fit",
+      "titulo": "Fit, Style, Comfort. Have It All",
+      "status": "fora do ar",
+      "desde": null
+    },
+    {
+      "id": "2137018913856071",
+      "loja": "Kojo Fit",
+      "titulo": "Summer Compliment Generator",
+      "status": "fora do ar",
+      "desde": null
+    },
+    {
+      "id": "1102222968827480",
+      "loja": "Kojo Fit",
+      "titulo": "Dress Code: Hot",
+      "status": "fora do ar",
+      "desde": null
+    },
+    {
+      "id": "1055879734023243",
+      "loja": "Tailored Athlete",
+      "titulo": "Tailored Without Going To The Tailor",
+      "status": "ativo",
+      "desde": "Aug 27, 2026"
+    },
+    {
+      "id": "927031596569440",
+      "loja": "Tailored Athlete",
+      "titulo": "Confidence You Can Wear",
+      "status": "fora do ar",
+      "desde": "Aug 27, 2026"
+    },
+    {
+      "id": "2060304798189416",
+      "loja": "Tailored Athlete",
+      "titulo": "Josh Mair",
+      "status": "ativo",
+      "desde": "Aug 27, 2026"
+    },
+    {
+      "id": "1072320415252516",
+      "loja": "Tailored Athlete",
+      "titulo": "Love at First Fit",
+      "status": "fora do ar",
+      "desde": null
+    },
+    {
+      "id": "2106156463611035",
+      "loja": "Tailored Athlete",
+      "titulo": "New Collection. Same Perfect Fit.",
+      "status": "fora do ar",
+      "desde": null
+    }
+  ]
+}

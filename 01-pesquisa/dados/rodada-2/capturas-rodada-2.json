@@ -1,0 +1,287 @@
+{
+  "data": "2026-09-27",
+  "capturas": [
+    {
+      "loja": "tailored-athlete",
+      "tipo": "home",
+      "disp": "desktop",
+      "url": "https://tailoredathlete.com/",
+      "arquivo": "tailored-athlete-home-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 7.6
+    },
+    {
+      "loja": "tailored-athlete",
+      "tipo": "home",
+      "disp": "celular",
+      "url": "https://tailoredathlete.com/",
+      "arquivo": "tailored-athlete-home-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 15
+    },
+    {
+      "loja": "tailored-athlete",
+      "tipo": "pdp",
+      "disp": "desktop",
+      "url": "https://tailoredathlete.com/products/dress-shirt-in-navy-blue",
+      "arquivo": "tailored-athlete-pdp-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 7.8
+    },
+    {
+      "loja": "tailored-athlete",
+      "tipo": "pdp",
+      "disp": "celular",
+      "url": "https://tailoredathlete.com/products/dress-shirt-in-navy-blue",
+      "arquivo": "tailored-athlete-pdp-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 10.5
+    },
+    {
+      "loja": "kojo-fit",
+      "tipo": "home",
+      "disp": "desktop",
+      "url": "https://kojofit.com/",
+      "arquivo": "kojo-fit-home-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 5.3
+    },
+    {
+      "loja": "kojo-fit",
+      "tipo": "home",
+      "disp": "celular",
+      "url": "https://kojofit.com/",
+      "arquivo": "kojo-fit-home-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 5.6
+    },
+    {
+      "loja": "kojo-fit",
+      "tipo": "pdp",
+      "disp": "desktop",
+      "url": "https://www.kojofit.com/products/white-muscle-fit-bamboo-dress-shirt-long-sleeve-mens",
+      "arquivo": "kojo-fit-pdp-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 6,
+      "nota": "refeita em 27/09: o primeiro endereco redirecionava para a home"
+    },
+    {
+      "loja": "kojo-fit",
+      "tipo": "pdp",
+      "disp": "celular",
+      "url": "https://www.kojofit.com/products/white-muscle-fit-bamboo-dress-shirt-long-sleeve-mens",
+      "arquivo": "kojo-fit-pdp-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 3.9,
+      "nota": "refeita em 27/09: o primeiro endereco redirecionava para a home"
+    },
+    {
+      "loja": "savid",
+      "tipo": "home",
+      "disp": "desktop",
+      "url": "https://trysavid.com/",
+      "arquivo": "savid-home-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 1.8
+    },
+    {
+      "loja": "savid",
+      "tipo": "home",
+      "disp": "celular",
+      "url": "https://trysavid.com/",
+      "arquivo": "savid-home-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 2.2
+    },
+    {
+      "loja": "savid",
+      "tipo": "pdp",
+      "disp": "desktop",
+      "url": "https://trysavid.com/products/flex-weave-shirt",
+      "arquivo": "savid-pdp-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 1.3
+    },
+    {
+      "loja": "savid",
+      "tipo": "pdp",
+      "disp": "celular",
+      "url": "https://trysavid.com/products/flex-weave-shirt",
+      "arquivo": "savid-pdp-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 1.5
+    },
+    {
+      "loja": "nimble-made",
+      "tipo": "home",
+      "disp": "desktop",
+      "url": "https://nimble-made.com/",
+      "arquivo": "nimble-made-home-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 6.4
+    },
+    {
+      "loja": "nimble-made",
+      "tipo": "home",
+      "disp": "celular",
+      "url": "https://nimble-made.com/",
+      "arquivo": "nimble-made-home-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 4.7
+    },
+    {
+      "loja": "nimble-made",
+      "tipo": "pdp",
+      "disp": "desktop",
+      "url": "https://nimble-made.com/products/white-broadcloth-weave",
+      "arquivo": "nimble-made-pdp-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 4.6
+    },
+    {
+      "loja": "nimble-made",
+      "tipo": "pdp",
+      "disp": "celular",
+      "url": "https://nimble-made.com/products/white-broadcloth-weave",
+      "arquivo": "nimble-made-pdp-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 4.7
+    },
+    {
+      "loja": "buffery",
+      "tipo": "home",
+      "disp": "desktop",
+      "url": "https://buffery.us/",
+      "arquivo": "buffery-home-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 115.2
+    },
+    {
+      "loja": "buffery",
+      "tipo": "home",
+      "disp": "celular",
+      "url": "https://buffery.us/",
+      "arquivo": "buffery-home-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 167.6
+    },
+    {
+      "loja": "buffery",
+      "tipo": "pdp",
+      "disp": "desktop",
+      "url": "https://buffery.us/products/flex-dress-shirt",
+      "arquivo": "buffery-pdp-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 61.4
+    },
+    {
+      "loja": "buffery",
+      "tipo": "pdp",
+      "disp": "celular",
+      "url": "https://buffery.us/products/flex-dress-shirt",
+      "arquivo": "buffery-pdp-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 56.7
+    },
+    {
+      "loja": "truefords",
+      "tipo": "home",
+      "disp": "desktop",
+      "url": "https://truefords.com/",
+      "arquivo": "truefords-home-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 5.9
+    },
+    {
+      "loja": "truefords",
+      "tipo": "home",
+      "disp": "celular",
+      "url": "https://truefords.com/",
+      "arquivo": "truefords-home-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 7.8
+    },
+    {
+      "loja": "truefords",
+      "tipo": "pdp",
+      "disp": "desktop",
+      "url": "https://truefords.com/products/truefords-non-iron-shirt",
+      "arquivo": "truefords-pdp-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 13.7
+    },
+    {
+      "loja": "truefords",
+      "tipo": "pdp",
+      "disp": "celular",
+      "url": "https://truefords.com/products/truefords-non-iron-shirt",
+      "arquivo": "truefords-pdp-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 4.8
+    },
+    {
+      "loja": "tone-tec",
+      "tipo": "home",
+      "disp": "desktop",
+      "url": "https://trytonetec.com/",
+      "arquivo": "tone-tec-home-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 3.8
+    },
+    {
+      "loja": "tone-tec",
+      "tipo": "home",
+      "disp": "celular",
+      "url": "https://trytonetec.com/",
+      "arquivo": "tone-tec-home-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 4.9
+    },
+    {
+      "loja": "tone-tec",
+      "tipo": "pdp",
+      "disp": "desktop",
+      "url": "https://trytonetec.com/products/executive",
+      "arquivo": "tone-tec-pdp-desktop.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 3.5
+    },
+    {
+      "loja": "tone-tec",
+      "tipo": "pdp",
+      "disp": "celular",
+      "url": "https://trytonetec.com/products/executive",
+      "arquivo": "tone-tec-pdp-mobile.jpg",
+      "bloqueio": false,
+      "ok": true,
+      "peso_mb": 4.4
+    }
+  ]
+}

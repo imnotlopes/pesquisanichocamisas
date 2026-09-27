@@ -1,0 +1,34 @@
+{
+ "tailoredathlete.com": {
+  "anuncia": true,
+  "contagem": 54,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=tailoredathlete.com"
+ },
+ "kojofit.com": {
+  "anuncia": true,
+  "contagem": 7,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=kojofit.com"
+ },
+ "trysavid.com": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=trysavid.com"
+ },
+ "nimble-made.com": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=nimble-made.com"
+ },
+ "buffery.us": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=buffery.us"
+ }
+}

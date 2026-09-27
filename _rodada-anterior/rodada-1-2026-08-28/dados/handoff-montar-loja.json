@@ -1,0 +1,395 @@
+{
+  "schema_version": "handoff-montar-loja-v2.0",
+  "research": {
+    "name": "Camisas Sociais de Performance (ATHLOS)",
+    "mode": "rapido",
+    "scope": "nicho",
+    "generated_at": "2026-08-28",
+    "root": "01-pesquisa"
+  },
+  "status": "validation_only",
+  "market": {
+    "country": "US",
+    "language": "en",
+    "currency": "USD",
+    "market_decision": "conditional",
+    "operator_decision": "fits",
+    "evidence_summary": [
+      "5 lojas dropship-de-marca qualificadas identificadas e analisadas (Tailored Athlete, Kojo Fit, SAVID, Nimble Made, Buffery)",
+      "Tailored Athlete: 1.114 anúncios ativos / 5.309 históricos (21% sobrevivência) confirmados por page_id na Meta Ads Library",
+      "Kojo Fit: 249 ativos / 477 históricos (52% sobrevivência) confirmados por page_id",
+      "SAVID: 12 ativos / 12 históricos (100% sobrevivência) — referência de entrada nível iniciante",
+      "Mercado setorial de vestuário de alta performance projetado de US$11,7bi (2026) a US$27,5bi (2035), CAGR ~10% (proxy setorial)",
+      "Economia de P&L positiva em cenário conservador (margem de contribuição US$8,12/pedido) e base (US$19,02/pedido)"
+    ],
+    "limitations": [
+      "Contagem de anúncios de Nimble Made e Buffery NÃO OBTIDA (limite da ferramenta MCP de busca por domínio/nome)",
+      "Tráfego mensal medido (SimilarWeb) NÃO OBTIDO para nenhuma das 5 lojas",
+      "Google Trends dos termos de triagem não foi lido nesta sessão (links gerados, não abertos)",
+      "PDP da Tailored Athlete não capturada visualmente (bloqueio Cloudflare anti-bot)"
+    ]
+  },
+  "brand": {
+    "name": "ATHLOS",
+    "domain_candidate": null,
+    "positioning": "Camisas sociais e complementos de modelagem atlética em tecido de performance, para o homem que treina e ainda precisa se vestir bem no trabalho — do treino ao escritório sem trocar de roupa.",
+    "palette": [
+      { "name": "Grafite Profundo", "hex": "#1C1F22", "role": "texto/UI" },
+      { "name": "Verde Musgo Performance", "hex": "#3F6B4F", "role": "CTA/destaque" },
+      { "name": "Branco Osso", "hex": "#F5F3EE", "role": "fundo primário" },
+      { "name": "Areia Quente", "hex": "#D9C9AE", "role": "fundo secundário/lifestyle" },
+      { "name": "Terracota Queimado", "hex": "#B5542D", "role": "acento de oferta/urgência" },
+      { "name": "Cinza Aço", "hex": "#7A8085", "role": "texto secundário/bordas" }
+    ],
+    "fonts": { "heading": "Space Grotesk", "body": "Inter" },
+    "voice": [
+      "Direta e funcional — benefício primeiro, estilo depois",
+      "Sem jargão de moda — tom de colega que treina e entende de trabalho",
+      "Prova concreta — tempo economizado, resistência a suor/ruga, nunca promessa vaga"
+    ],
+    "photography": [
+      "Still de produto em fundo neutro de estúdio, luz fria/uniforme, 2048x2048px WEBP",
+      "Lifestyle mostrando transição academia → escritório na mesma peça",
+      "Modelo de build atlético real, não fisiculturista extremo"
+    ],
+    "forbidden_claims": [
+      "impermeável",
+      "anti-bacteriano clinicamente comprovado",
+      "elimina 100% do suor/odor (usar 'resistente a odor')",
+      "0% de encolhimento",
+      "comparação nominal direta com concorrentes"
+    ]
+  },
+  "catalog": {
+    "collections": [
+      { "handle": "shirts", "title": "Performance Dress Shirts", "description_html": "<p>Athletic-tapered dress shirts in 4-way stretch performance fabric.</p>" },
+      { "handle": "complements", "title": "Complete the Look", "description_html": "<p>Polos, pants, blazers and accessories built with the same performance fabric philosophy.</p>" }
+    ],
+    "products": [
+      {
+        "handle": "long-sleeve-performance-dress-shirt",
+        "title": "Long-Sleeve Performance Dress Shirt",
+        "role": "hero",
+        "product_type": "Dress Shirt",
+        "vendor": "ATHLOS",
+        "status": "draft",
+        "tags": ["hero", "shirts", "performance"],
+        "collections": ["shirts"],
+        "pricing": { "price": "69.95", "compare_at": "89.95", "cost": null, "currency": "USD" },
+        "supplier": { "url": null, "status": "not_obtained", "notes": "Nenhum fornecedor cotado nesta pesquisa. Ver plano-de-acao.html bloco 02 para links de sourcing iniciais." },
+        "copy": {
+          "headline": "From the gym to the boardroom. Same shirt.",
+          "lede": "Athletic-tapered dress shirt in 4-way stretch performance fabric. No ironing, no sweat marks, no compromise.",
+          "body_html": "<p>Built for a broader chest and shoulders with a tapered waist, this shirt moves with you from a workout to a client meeting without a wrinkle.</p>",
+          "bullets": [
+            "4-way stretch fabric moves with you",
+            "Wrinkle-resistant fiber — no ironing needed",
+            "Moisture-wicking + odor-resistant finish",
+            "Athletic taper: broader chest/shoulders, tailored waist"
+          ],
+          "proof": "128 reviews, 5-star average (projected — no live reviews yet)",
+          "faq": [
+            { "q": "How does the athletic fit differ from a standard dress shirt?", "a": "More room through the chest and shoulders, tapered at the waist." },
+            { "q": "What if it doesn't fit?", "a": "Wear it, wash it, test it for 14 days. Free exchange or refund." }
+          ]
+        },
+        "options": [{ "name": "Color", "values": ["Navy", "White", "Black", "Sky Blue"] }, { "name": "Size", "values": ["S", "M", "L", "XL", "2XL", "3XL"] }],
+        "variants": [{ "sku": "ATH-LS-NVY-M", "title": "Navy / M", "price": "69.95", "compare_at": "89.95", "option_values": ["Navy", "M"], "inventory_policy": "deny" }],
+        "seo": { "title": "Long-Sleeve Performance Dress Shirt for Athletic Builds | ATHLOS", "description": "Athletic-fit dress shirt in 4-way stretch performance fabric. No ironing, moisture-wicking, 14-day guarantee." },
+        "image_plan": { "product_master": null, "reference_folder": "Referencia de imagens - cena e prompt/long-sleeve-performance-dress-shirt", "reference_manifest": "Referencia de imagens - cena e prompt/long-sleeve-performance-dress-shirt/manifest.json", "prompt_manifest": "Referencia de imagens - cena e prompt/long-sleeve-performance-dress-shirt/prompts.json", "pdp_reference_capture": "Referencia de imagens - cena e prompt/long-sleeve-performance-dress-shirt/modelo-pagina-concorrente.jpg", "generated_folder": null, "required_count": 1, "approved_count": 0, "source_status": "sample_required" },
+        "template_suffix": null
+      },
+      {
+        "handle": "short-sleeve-performance-dress-shirt",
+        "title": "Short-Sleeve Performance Dress Shirt",
+        "role": "secondary",
+        "product_type": "Dress Shirt",
+        "vendor": "ATHLOS",
+        "status": "draft",
+        "tags": ["shirts", "performance"],
+        "collections": ["shirts"],
+        "pricing": { "price": "64.95", "compare_at": null, "cost": null, "currency": "USD" },
+        "supplier": { "url": null, "status": "not_obtained", "notes": "Não cotado." },
+        "copy": {
+          "headline": "The same fit, warm-weather ready.",
+          "lede": "Short-sleeve performance dress shirt, athletic taper, same 4-way stretch fabric.",
+          "body_html": "<p>Same performance fabric and athletic taper as our long-sleeve, cut short for warmer days.</p>",
+          "bullets": ["4-way stretch fabric", "Wrinkle-resistant", "Moisture-wicking", "Athletic taper"],
+          "proof": "Not yet launched",
+          "faq": [{ "q": "Does it fit the same as the long-sleeve?", "a": "Yes, same athletic taper block." }]
+        },
+        "options": [{ "name": "Color", "values": ["White", "Black"] }, { "name": "Size", "values": ["S", "M", "L", "XL", "2XL"] }],
+        "variants": [{ "sku": "ATH-SS-WHT-M", "title": "White / M", "price": "64.95", "compare_at": null, "option_values": ["White", "M"], "inventory_policy": "deny" }],
+        "seo": { "title": "Short-Sleeve Performance Dress Shirt | ATHLOS", "description": "Athletic-fit short-sleeve dress shirt in stretch performance fabric." },
+        "image_plan": { "product_master": null, "reference_folder": "Referencia de imagens - cena e prompt/short-sleeve-performance-dress-shirt", "reference_manifest": "Referencia de imagens - cena e prompt/short-sleeve-performance-dress-shirt/manifest.json", "prompt_manifest": "Referencia de imagens - cena e prompt/short-sleeve-performance-dress-shirt/prompts.json", "pdp_reference_capture": "Referencia de imagens - cena e prompt/short-sleeve-performance-dress-shirt/modelo-pagina-concorrente.jpg", "generated_folder": null, "required_count": 1, "approved_count": 0, "source_status": "sample_required" },
+        "template_suffix": null
+      },
+      {
+        "handle": "performance-polo",
+        "title": "Performance Polo",
+        "role": "cross_sell",
+        "product_type": "Polo",
+        "vendor": "ATHLOS",
+        "status": "draft",
+        "tags": ["polos", "performance"],
+        "collections": ["complements"],
+        "pricing": { "price": "54.95", "compare_at": null, "cost": null, "currency": "USD" },
+        "supplier": { "url": null, "status": "not_obtained", "notes": "Não cotado." },
+        "copy": {
+          "headline": "Smart-casual, same performance fabric.",
+          "lede": "Performance polo for the days between gym and boardroom.",
+          "body_html": "<p>Athletic-tapered polo in the same stretch performance fabric as our shirts.</p>",
+          "bullets": ["4-way stretch", "Moisture-wicking", "Athletic taper"],
+          "proof": "Not yet launched",
+          "faq": [{ "q": "Is this dressy enough for the office?", "a": "Yes, for smart-casual dress codes." }]
+        },
+        "options": [{ "name": "Color", "values": ["Moss Green", "Navy"] }, { "name": "Size", "values": ["S", "M", "L", "XL"] }],
+        "variants": [{ "sku": "ATH-PLO-MOS-M", "title": "Moss Green / M", "price": "54.95", "compare_at": null, "option_values": ["Moss Green", "M"], "inventory_policy": "deny" }],
+        "seo": { "title": "Performance Polo for Athletic Builds | ATHLOS", "description": "Athletic-fit performance polo in stretch fabric." },
+        "image_plan": { "product_master": null, "reference_folder": "Referencia de imagens - cena e prompt/performance-polo", "reference_manifest": "Referencia de imagens - cena e prompt/performance-polo/manifest.json", "prompt_manifest": "Referencia de imagens - cena e prompt/performance-polo/prompts.json", "pdp_reference_capture": "Referencia de imagens - cena e prompt/performance-polo/modelo-pagina-concorrente.jpg", "generated_folder": null, "required_count": 1, "approved_count": 0, "source_status": "sample_required" },
+        "template_suffix": null
+      },
+      {
+        "handle": "stretch-chino-ankle-fit",
+        "title": "Stretch Chino Ankle Fit",
+        "role": "cross_sell",
+        "product_type": "Pants",
+        "vendor": "ATHLOS",
+        "status": "draft",
+        "tags": ["pants", "performance"],
+        "collections": ["complements"],
+        "pricing": { "price": "74.95", "compare_at": null, "cost": null, "currency": "USD" },
+        "supplier": { "url": null, "status": "not_obtained", "notes": "Não cotado." },
+        "copy": {
+          "headline": "Chinos that move like joggers, dress like slacks.",
+          "lede": "Stretch chino with an athletic ankle fit.",
+          "body_html": "<p>Tapered stretch chino built for athletic legs, dressy enough for the office.</p>",
+          "bullets": ["4-way stretch", "Athletic tapered leg", "Wrinkle-resistant"],
+          "proof": "Not yet launched",
+          "faq": [{ "q": "Do these fit athletic thighs?", "a": "Yes, cut roomier through the thigh, tapered at the ankle." }]
+        },
+        "options": [{ "name": "Color", "values": ["Charcoal", "Khaki"] }, { "name": "Size", "values": ["30", "32", "34", "36"] }],
+        "variants": [{ "sku": "ATH-CHN-CHR-32", "title": "Charcoal / 32", "price": "74.95", "compare_at": null, "option_values": ["Charcoal", "32"], "inventory_policy": "deny" }],
+        "seo": { "title": "Stretch Chino Ankle Fit for Athletic Builds | ATHLOS", "description": "Athletic-fit stretch chino pants, tapered ankle." },
+        "image_plan": { "product_master": null, "reference_folder": "Referencia de imagens - cena e prompt/stretch-chino-ankle-fit", "reference_manifest": "Referencia de imagens - cena e prompt/stretch-chino-ankle-fit/manifest.json", "prompt_manifest": "Referencia de imagens - cena e prompt/stretch-chino-ankle-fit/prompts.json", "pdp_reference_capture": "Referencia de imagens - cena e prompt/stretch-chino-ankle-fit/modelo-pagina-concorrente.jpg", "generated_folder": null, "required_count": 1, "approved_count": 0, "source_status": "sample_required" },
+        "template_suffix": null
+      },
+      {
+        "handle": "stretch-sport-coat",
+        "title": "Stretch Sport Coat",
+        "role": "secondary",
+        "product_type": "Blazer",
+        "vendor": "ATHLOS",
+        "status": "draft",
+        "tags": ["blazers", "performance"],
+        "collections": ["complements"],
+        "pricing": { "price": "149.95", "compare_at": null, "cost": null, "currency": "USD" },
+        "supplier": { "url": null, "status": "not_obtained", "notes": "Não cotado." },
+        "copy": {
+          "headline": "A blazer that bends when you do.",
+          "lede": "Stretch sport coat, athletic tapered fit.",
+          "body_html": "<p>Structured enough for a meeting, stretchy enough to move.</p>",
+          "bullets": ["4-way stretch", "Athletic taper", "Wrinkle-resistant"],
+          "proof": "Not yet launched",
+          "faq": [{ "q": "Can I wear this daily?", "a": "Yes, built for everyday stretch and recovery." }]
+        },
+        "options": [{ "name": "Color", "values": ["Graphite"] }, { "name": "Size", "values": ["38R", "40R", "42R", "44R"] }],
+        "variants": [{ "sku": "ATH-BLZ-GRA-40R", "title": "Graphite / 40R", "price": "149.95", "compare_at": null, "option_values": ["Graphite", "40R"], "inventory_policy": "deny" }],
+        "seo": { "title": "Stretch Sport Coat for Athletic Builds | ATHLOS", "description": "Athletic-fit stretch blazer, moves with you." },
+        "image_plan": { "product_master": null, "reference_folder": "Referencia de imagens - cena e prompt/stretch-sport-coat", "reference_manifest": "Referencia de imagens - cena e prompt/stretch-sport-coat/manifest.json", "prompt_manifest": "Referencia de imagens - cena e prompt/stretch-sport-coat/prompts.json", "pdp_reference_capture": "Referencia de imagens - cena e prompt/stretch-sport-coat/modelo-pagina-concorrente.jpg", "generated_folder": null, "required_count": 1, "approved_count": 0, "source_status": "sample_required" },
+        "template_suffix": null
+      },
+      {
+        "handle": "performance-leather-look-belt",
+        "title": "Performance Leather-Look Belt",
+        "role": "cross_sell",
+        "product_type": "Accessory",
+        "vendor": "ATHLOS",
+        "status": "draft",
+        "tags": ["accessories"],
+        "collections": ["complements"],
+        "pricing": { "price": "34.95", "compare_at": null, "cost": null, "currency": "USD" },
+        "supplier": { "url": null, "status": "not_obtained", "notes": "Não cotado." },
+        "copy": {
+          "headline": "Finish the look.",
+          "lede": "Performance leather-look belt.",
+          "body_html": "<p>The finishing accessory for the full ATHLOS look.</p>",
+          "bullets": ["Durable finish", "Classic buckle"],
+          "proof": "Not yet launched",
+          "faq": [{ "q": "Is it real leather?", "a": "Leather-look performance material, details TBD with supplier." }]
+        },
+        "options": [{ "name": "Color", "values": ["Black", "Brown"] }, { "name": "Size", "values": ["32", "34", "36", "38"] }],
+        "variants": [{ "sku": "ATH-BLT-BLK-34", "title": "Black / 34", "price": "34.95", "compare_at": null, "option_values": ["Black", "34"], "inventory_policy": "deny" }],
+        "seo": { "title": "Performance Belt for Men | ATHLOS", "description": "Leather-look performance belt to complete the ATHLOS look." },
+        "image_plan": { "product_master": null, "reference_folder": "Referencia de imagens - cena e prompt/performance-leather-look-belt", "reference_manifest": "Referencia de imagens - cena e prompt/performance-leather-look-belt/manifest.json", "prompt_manifest": "Referencia de imagens - cena e prompt/performance-leather-look-belt/prompts.json", "pdp_reference_capture": "Referencia de imagens - cena e prompt/performance-leather-look-belt/modelo-pagina-concorrente.jpg", "generated_folder": null, "required_count": 1, "approved_count": 0, "source_status": "sample_required" },
+        "template_suffix": null
+      },
+      {
+        "handle": "travel-collar-stay-care-kit",
+        "title": "Travel Collar Stay & Care Kit",
+        "role": "bump",
+        "product_type": "Accessory",
+        "vendor": "ATHLOS",
+        "status": "draft",
+        "tags": ["bump", "accessories"],
+        "collections": ["complements"],
+        "pricing": { "price": "12.95", "compare_at": null, "cost": null, "currency": "USD" },
+        "supplier": { "url": null, "status": "not_obtained", "notes": "Não cotado." },
+        "copy": {
+          "headline": "Keep your collar crisp on the road.",
+          "lede": "Travel collar stay and care kit — the top checkout add-on.",
+          "body_html": "<p>Collar stays, a fabric brush, and a mini stain pen in a compact travel case.</p>",
+          "bullets": ["Collar stays included", "Fabric brush", "Mini stain pen"],
+          "proof": "Not yet launched",
+          "faq": [{ "q": "Does this fit any shirt collar?", "a": "Yes, universal collar stay sizing." }]
+        },
+        "options": [],
+        "variants": [{ "sku": "ATH-BUMP-KIT", "title": "Default", "price": "12.95", "compare_at": null, "option_values": [], "inventory_policy": "deny" }],
+        "seo": { "title": "Travel Collar Stay & Care Kit | ATHLOS", "description": "Compact travel kit to keep your ATHLOS shirt crisp on the road." },
+        "image_plan": { "product_master": null, "reference_folder": "Referencia de imagens - cena e prompt/travel-collar-stay-care-kit", "reference_manifest": "Referencia de imagens - cena e prompt/travel-collar-stay-care-kit/manifest.json", "prompt_manifest": "Referencia de imagens - cena e prompt/travel-collar-stay-care-kit/prompts.json", "pdp_reference_capture": "Referencia de imagens - cena e prompt/travel-collar-stay-care-kit/modelo-pagina-concorrente.jpg", "generated_folder": null, "required_count": 1, "approved_count": 0, "source_status": "sample_required" },
+        "template_suffix": null
+      }
+    ]
+  },
+  "offer": {
+    "hero_handle": "long-sleeve-performance-dress-shirt",
+    "currency": "USD",
+    "shipping": { "free_over": "60.00", "standard_days": "3-5", "expedited_available": true },
+    "guarantee": { "days": 14, "type": "wear_wash_test", "friction": "none_no_forms" },
+    "bundles": [],
+    "order_bump": { "handle": "travel-collar-stay-care-kit", "price": "12.95", "placement": "pdp_and_cart", "expected_attach_rate": "0.25-0.35" },
+    "economics": {
+      "source": "estimativa de categoria (moda masculina DTC EUA) — nenhum fornecedor cotado nesta pesquisa",
+      "assumptions": [
+        "Custo do produto hero ~US$17,50 (estimativa de categoria)",
+        "Custo do bump ~US$3,50 (estimativa de categoria)",
+        "Frete de saída ~US$6,50/pedido",
+        "Taxa de pagamento ~3%",
+        "CPA de US$28 (base) a US$38 (conservador), benchmark de moda DTC nos EUA"
+      ],
+      "target_margin": "0.60"
+    }
+  },
+  "navigation": {
+    "main_menu": [
+      { "title": "Shirts", "type": "collection", "target": "shirts" },
+      { "title": "Complete the Look", "type": "collection", "target": "complements" },
+      { "title": "Our Story", "type": "page", "target": "about" }
+    ],
+    "footer_menu": [
+      { "title": "Shipping & Returns", "type": "page", "target": "shipping-returns" },
+      { "title": "Size Guide", "type": "page", "target": "size-guide" },
+      { "title": "FAQ", "type": "page", "target": "faq" },
+      { "title": "Contact", "type": "page", "target": "contact" },
+      { "title": "Privacy Policy", "type": "page", "target": "privacy-policy" }
+    ]
+  },
+  "pages": [
+    { "handle": "about", "title": "Our Story", "body_html": "<p>ATHLOS makes dress shirts and everyday essentials for men who train — built to move from the gym to the office without a wardrobe change.</p>", "kind": "about" },
+    { "handle": "shipping-returns", "title": "Shipping & Returns", "body_html": "<p>Free shipping on orders over $60. Standard delivery in 3-5 business days, expedited available. Wear, wash, and test any item for 14 days — free exchange or refund, no forms required.</p>", "kind": "policy" },
+    { "handle": "size-guide", "title": "Size Guide", "body_html": "<p>ATHLOS pieces are cut with an athletic taper: more room through the chest and shoulders, tailored through the waist. Measure your chest and waist and match to the size chart below (chart pending final sample approval).</p>", "kind": "guide" },
+    { "handle": "faq", "title": "FAQ", "body_html": "<p>Common questions about fit, fabric, and care.</p>", "kind": "faq" },
+    { "handle": "contact", "title": "Contact", "body_html": "<p>Reach us at support@[domain-pending].com.</p>", "kind": "contact" },
+    { "handle": "privacy-policy", "title": "Privacy Policy", "body_html": "<p>Standard Shopify privacy policy — to be finalized at store setup.</p>", "kind": "legal" }
+  ],
+  "store_blueprint": {
+    "home_html": "paginas/mockup-home.html",
+    "pdp_html": "paginas/mockup-pdp.html",
+    "benchmark_html": "paginas/benchmark-visual.html",
+    "theme_target": { "strategy": "use_installed_theme", "preferred_family": null, "minimum_online_store_2": true },
+    "home_sections": [
+      { "id": "guarantee-bar", "purpose": "reduzir fricção logo na primeira dobra", "copy_source": "mockup-home.html", "asset_source": "n/a", "acceptance": "texto de frete/garantia visível sem rolagem" },
+      { "id": "hero", "purpose": "apresentar a big idea funcional (treino→trabalho)", "copy_source": "mockup-home.html", "asset_source": "identidade-visual.html#p-hero", "acceptance": "headline + CTA visíveis acima da dobra" },
+      { "id": "value-bar", "purpose": "reforçar os 4 benefícios funcionais", "copy_source": "mockup-home.html", "asset_source": "n/a", "acceptance": "4 ícones/benefícios visíveis" },
+      { "id": "collection-grid", "purpose": "mostrar os 7 SKUs do catálogo", "copy_source": "mockup-home.html", "asset_source": "identidade-visual.html", "acceptance": "grid responsivo 2 col mobile / 4 col desktop" },
+      { "id": "bundle-banner", "purpose": "destacar o order bump", "copy_source": "mockup-home.html", "asset_source": "n/a", "acceptance": "CTA visível" },
+      { "id": "transition-lifestyle", "purpose": "provar a tese gym-to-office", "copy_source": "mockup-home.html", "asset_source": "identidade-visual.html", "acceptance": "2 imagens lado a lado" },
+      { "id": "social-proof", "purpose": "prova social", "copy_source": "mockup-home.html", "asset_source": "n/a", "acceptance": "3 depoimentos visíveis" }
+    ],
+    "pdp_sections": [
+      { "id": "gallery", "purpose": "mostrar o produto em múltiplos ângulos", "copy_source": "mockup-pdp.html", "asset_source": "identidade-visual.html#p-hero", "acceptance": "4 thumbnails + imagem principal" },
+      { "id": "buybox", "purpose": "título, preço, prova social", "copy_source": "mockup-pdp.html", "asset_source": "n/a", "acceptance": "preço com âncora visível" },
+      { "id": "variant-selector", "purpose": "cor e tamanho", "copy_source": "mockup-pdp.html", "asset_source": "n/a", "acceptance": "seletor funcional" },
+      { "id": "bullets", "purpose": "4 benefícios funcionais", "copy_source": "mockup-pdp.html", "asset_source": "n/a", "acceptance": "lista visível acima do CTA" },
+      { "id": "order-bump", "purpose": "oferecer o kit de viagem", "copy_source": "mockup-pdp.html", "asset_source": "identidade-visual.html#p-bump", "acceptance": "checkbox visível antes do add-to-cart" },
+      { "id": "guarantee", "purpose": "reduzir objeção de fit", "copy_source": "mockup-pdp.html", "asset_source": "n/a", "acceptance": "texto de garantia visível" },
+      { "id": "faq", "purpose": "responder objeções de fit/tecido", "copy_source": "mockup-pdp.html", "asset_source": "n/a", "acceptance": "3+ perguntas visíveis" },
+      { "id": "related", "purpose": "cross-sell dos complementos", "copy_source": "mockup-pdp.html", "asset_source": "n/a", "acceptance": "4 produtos relacionados" }
+    ],
+    "component_map": [
+      { "component": "sticky-add-to-cart", "used_in": ["pdp"], "note": "mobile apenas, per LAYOUT.md" },
+      { "component": "product-browser-tabs", "used_in": ["identidade-visual"], "note": "templates/referencias-produtos.html" }
+    ],
+    "responsive_requirements": [
+      "Sem camada fixa cobrindo conteúdo no celular exceto a barra de add-to-cart",
+      "Imagens abaixo da dobra em lazy load",
+      "Grid de coleção 2 colunas no mobile, 4 no desktop"
+    ],
+    "performance_budget": { "lcp_seconds": 2.5, "cls": 0.1, "mobile_kb_added": 350 }
+  },
+  "creative_strategy": {
+    "angles": [
+      "Benefício funcional direto (não amassa, não precisa passar) — ângulo dominante e mais duradouro do nicho",
+      "Transição treino→trabalho (diferencial da tese ATHLOS, nenhum concorrente observado cobre isso)",
+      "Prova social nomeada com contexto de uso real"
+    ],
+    "reference_gallery": [
+      { "titulo": "No Ironing. No Wrinkles.", "loja": "SAVID", "link": "https://www.facebook.com/ads/library/?id=3614483035369000", "arquivo_local": "paginas/criativos/savid-3614483035369000.mp4" },
+      { "titulo": "You Looked Twice", "loja": "Kojo Fit", "link": "https://www.facebook.com/ads/library/?id=1063596439727330", "arquivo_local": "paginas/criativos/kojo-fit-1063596439727330.mp4" },
+      { "titulo": "Confidence You Can Wear", "loja": "Tailored Athlete", "link": "https://www.facebook.com/ads/library/?id=927031596569440", "arquivo_local": "paginas/criativos/tailored-athlete-927031596569440.jpg" }
+    ],
+    "production_notes": "12 criativos reais (5 imagens + 7 vídeos) baixados diretamente da página pública de detalhe da Meta Ads Library (sem login) das 3 lojas com page_id confirmado — ver paginas/anuncios.html e paginas/criativos/manifesto.json. Padrão dominante: UGC de reação com palavra-gancho construída na tela (Kojo Fit) e still de produto com bullets de benefício sobrepostos (Tailored Athlete). Produzir criativos próprios seguindo esses dois formatos após aprovação de amostra física."
+  },
+  "assets": {
+    "product_references": "01-pesquisa/Referencia de imagens - cena e prompt (prompts em identidade-visual.html; sem carrossel completo baixado nesta rodada — escopo reduzido a 1 referência por produto)",
+    "competitor_captures": "01-pesquisa/capturas-concorrentes (16 capturas: 4 lojas x home/PDP x desktop/mobile; PDP da Tailored Athlete NÃO OBTIDA por bloqueio Cloudflare)",
+    "blueprint_captures": "01-pesquisa/capturas-blueprint (4 capturas do blueprint ATHLOS: home/PDP x desktop/mobile)",
+    "generated_product_images": null
+  },
+  "tracking": {
+    "pixel": { "provider": "meta", "status": "not_configured" },
+    "capi": { "status": "not_configured" },
+    "events": ["page_view", "view_item", "add_to_cart", "begin_checkout", "purchase"],
+    "consent": { "banner_required": true, "regions": ["US"] }
+  },
+  "execution_policy": {
+    "target_mode": "unpublished_theme_copy",
+    "dry_run_first": true,
+    "backup_required": true,
+    "manual_approval_required": true,
+    "publish_allowed": false,
+    "replace_existing_products": false,
+    "replace_existing_menu": false,
+    "delete_existing_media": false
+  },
+  "validation": {
+    "structural_reviewer": "failed",
+    "responsive_reviewer": "passed",
+    "visual_review": "not_run",
+    "product_image_audit": "not_applicable",
+    "handoff_reviewer": "not_run",
+    "problems": [
+      "revisar-v4.py: benchmark-visual.html com 14/16 comparações (PDP da Tailored Athlete bloqueada por verificação anti-bot Cloudflare — não contornada, tratada como NÃO OBTIDO)"
+    ],
+    "warnings": [
+      "Nenhum fornecedor foi cotado — todos os 7 produtos estão com supplier.status = not_obtained",
+      "Nenhuma amostra física aprovada — todas as image_plan.source_status = sample_required",
+      "Domain candidate não verificado/registrado",
+      "Contagem de anúncios de 2 das 5 lojas (Nimble Made, Buffery) não obtida",
+      "Referências de produto reduzidas a 1 imagem de cena por SKU (não carrossel completo) — ver dados/auditoria-imagens.json"
+    ]
+  },
+  "privacy": {
+    "distribution_safe": true,
+    "contains_secrets": false,
+    "contains_internal_store_data": false,
+    "premium_theme_included": false
+  },
+  "decisions_required": [
+    "Cotar e aprovar fornecedor para os 7 SKUs (nenhum contatado nesta pesquisa)",
+    "Aprovar amostra física antes de qualquer fotografia final de produto",
+    "Registrar/verificar domínio da marca ATHLOS",
+    "Definir taxa de aceite real do order bump via teste A/B nas primeiras 2 semanas",
+    "Confirmar orçamento de teste de mídia (recomendado US$1.500-3.000/30-45 dias)"
+  ]
+}

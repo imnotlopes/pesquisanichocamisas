@@ -1,0 +1,86 @@
+{
+  "rodada": 2,
+  "data": "2026-09-27",
+  "rodada_anterior": { "numero": 1, "data": "2026-08-28", "arquivo": "_rodada-anterior/rodada-1-2026-08-28/" },
+  "fontes": {
+    "meta_contagem": "conector Meta Ads (ads_library_search), page_ids, ACTIVE e ALL, sem filtro de pais",
+    "meta_conteudo": "Biblioteca de Anuncios publica (minerar.js da skill raio-x e snapshots por ID), sem login",
+    "termos": "Biblioteca publica, busca por FRASE EXATA, EUA, so ativos (o conector casa palavra por palavra e devolve dramas/novelas)",
+    "catalogo": "products.json de cada loja, paginado de 250 em 250",
+    "trafego": "CrUX top lists por pais (ago/2026), modelo calibrado nas luminarias; incerteza x/÷2,5; cego ao navegador interno do Instagram/Facebook",
+    "google_ads": "Google Ads Transparency Center (gads-transparency.js da skill), sinal binario",
+    "autocomplete": "suggestqueries.google.com + api.bing.com, 10 sementes x 5 modificadores"
+  },
+  "lojas": [
+    {
+      "loja": "Tailored Athlete", "dominio": "tailoredathlete.com", "page_ids": ["484388168434320"],
+      "antes": { "ativos": 1114, "historico": 5309, "sobrevivencia_pct": 21, "preco_hero_usd": 98 },
+      "agora": { "ativos": 1575, "historico": 5729, "sobrevivencia_pct": 27, "preco_hero_usd": 98, "produtos": 1106, "publicados_desde_rodada_1": 79,
+        "amostra_50": { "criativos_unicos": 5, "duplicacao": 10, "janela_dias": 1.9, "rajada": true, "titulos": ["Joel Berg (20)", "Premium Denim. Built To Move. (16)", "Danilo Sipovac (10)", "DeMarcus Gilliard (2)", "Adam Jackson (2)"] },
+        "moedas": ["USD", "GBP"], "google_ads": "anuncia (54 anuncios no Transparency Center)",
+        "trafego_crux_mes": 487168, "trafego_faixa": [194867, 1217920], "pct_eua": 79 },
+      "leitura": "Acelerou: +461 anuncios ativos (+41%) e 420 criados em um mes. O mix virou anuncio com nome de criador no titulo (UGC em escala) e denim. Lancou 79 produtos de outono (polo, trico, casaco): e o guarda-roupa completo, mas em marca propria a US$ 98."
+    },
+    {
+      "loja": "Kojo Fit", "dominio": "kojofit.com", "page_ids": ["2071193272951404"],
+      "antes": { "ativos": 249, "historico": 477, "sobrevivencia_pct": 52, "preco_hero": "AUD 99" },
+      "agora": { "ativos": 228, "historico": 673, "sobrevivencia_pct": 34, "preco_hero": "pagina renderizada mostrou $86,00 (325 avaliacoes); /products/<handle>.js devolveu 99; preco varia por pais, sem queda confirmada. O products.json lista 156 produtos antigos, nao usar para preco",
+        "amostra_50": { "criativos_unicos": 10, "duplicacao": 5, "janela_dias": 2.6, "rajada": true, "titulos": ["Dress Code: Hot (12)", "You Looked Twice (10)", "The Tee That Keeps Its Shape (9)", "Not Your Dad's Polo (8)", "Built For Compliments (5)"] },
+        "moedas": ["AUD"], "google_ads": "anuncia (7)",
+        "trafego_crux_mes": 68246, "trafego_faixa": [27298, 170615], "pct_eua": 28 },
+      "leitura": "Girou muito: 196 anuncios novos no historico e 21 a menos no ar. Os 5 criativos de agosto sairam do ar, mas os mesmos conceitos voltaram com ID novo. So 28% do trafego estimado vem dos EUA (45% Australia)."
+    },
+    {
+      "loja": "SAVID", "dominio": "trysavid.com", "page_ids": ["1106485389219410"],
+      "antes": { "ativos": 12, "historico": 12, "sobrevivencia_pct": 100, "preco_hero_usd": 44.95 },
+      "agora": { "ativos": 28, "historico": 28, "sobrevivencia_pct": 100, "preco_hero_usd": 44.95, "produtos": 1,
+        "amostra": { "n": 28, "criativos_unicos": 3, "duplicacao": 9.3, "janela_dias": 29, "rajada": false, "mais_antigo": "2026-08-20", "titulos": ["No Ironing. No Wrinkles. (13)", "(sem titulo) (11)", "Flex Weave Dress Shirts (4, desde 09/09)"] },
+        "google_ads": "nao anuncia", "trafego_crux_mes": null, "trafego_nota": "fora das listas CrUX dos 4 paises (abaixo de ~3 a 6 mil visitas/mes no Chrome dos EUA); loja movida a anuncio Meta, entao o CrUX nao ve a maior parte" },
+      "leitura": "Dobrou a midia sem desligar nada: 28 de 28 no ar, o mais antigo desde 20/08. Continua 1 produto. A Biblioteca hoje mostra 21 anuncios criados antes de 28/08, contra 12 contados naquele dia: a contagem de agosto provavelmente pegou o indice atrasado."
+    },
+    {
+      "loja": "Nimble Made", "dominio": "nimble-made.com", "page_ids": ["223454095002324"],
+      "antes": { "ativos": null, "historico": null, "preco_hero_usd": "88 (promo 72)" },
+      "agora": { "ativos": 0, "historico": 0, "preco_hero_usd": 88, "produtos": 140, "google_ads": "nao anuncia",
+        "trafego_crux_mes": 1609, "trafego_nota": "saiu da lista dos EUA desde julho; aparece so em Reino Unido e Canada na faixa mais baixa. Piso." },
+      "leitura": "Lacuna de agosto fechada: page_id achado no HTML da pagina do Facebook e conferido no conector e na Biblioteca publica (0 ativos, 0 no historico). Nao anuncia na Meta nem no Google. A promo de US$ 72 acabou."
+    },
+    {
+      "loja": "Buffery", "dominio": "buffery.us", "page_ids": ["109092653951204"],
+      "antes": { "ativos": null, "historico": null, "preco_hero_usd": 130 },
+      "agora": { "ativos": 0, "historico": 0, "preco_hero_usd": 130, "produtos": 28, "google_ads": "nao anuncia", "trafego_crux_mes": null, "trafego_nota": "fora das listas CrUX dos 4 paises" },
+      "leitura": "Lacuna de agosto fechada: 0 anuncios na Meta (ativos e historico) e 0 no Google. Vende por evento de fisiculturismo e organico."
+    }
+  ],
+  "novos_entrantes": [
+    { "loja": "Truefords", "dominio": "truefords.com", "page_id": "1082359711619236", "ativos": 425, "historico": 2103, "sobrevivencia_pct": 20,
+      "modelo": "dropship puro (app AliExpress; produtos-coringa 'calecon' e 'chaussette' a US$ 0 com handle em frances)",
+      "hero": "Non-Iron Shirt, US$ 67,90 (sem preco riscado)", "catalogo": "camisa manga longa e curta + calca PrecisionFit US$ 79,90 + gravata US$ 26,90 + gravata-borboleta US$ 19,90",
+      "angulo": "Say Goodbye To Ironing / Never Iron Again + Buy 2, Get 1 Free", "alegacao": "22,000+ men, 4.8/5 (loja com produtos desde out/2025; nao verificavel)",
+      "trafego": "so aparece no Reino Unido, faixa mais baixa (~1 mil); cego ao in-app", "amostra_50": "toda criada em 26/09 (rajada), ~80% com o mesmo titulo" },
+    { "loja": "Tone Tec", "dominio": "trytonetec.com", "page_id": "436444686210170", "ativos": 87, "historico": 1198, "sobrevivencia_pct": 7,
+      "modelo": "dropship de marca (app AliExpress + Judge.me)", "hero": "The Executive Shirt, US$ 44,95 (de US$ 99,95)",
+      "catalogo": "camisa social + calca + polo + camiseta muscle + meias + cueca (9 produtos)", "angulo": "From 9AM to After-Hours / No ironing. No sweat. + Buy 2 Get 1 FREE",
+      "longevidade": "anuncios de 31/05 ainda no ar (4 meses)", "trafego_crux_mes": 6656 },
+    { "loja": "Stretto", "dominio": "wearstretto.com", "page_id": "1076091105582306", "ativos": 117, "historico": 188, "sobrevivencia_pct": 62,
+      "modelo": "dropship puro (app AliExpress, 4 produtos)", "hero": "All-Day Stretch Dress Pants, US$ 39,99 (de US$ 59,99)",
+      "catalogo": "calca social stretch + calca de golfe + camisa social US$ 39,99", "angulo": "Dress Pants That Actually Feel Good (4-way stretch, nao amassa)",
+      "longevidade": "anuncios de 17/04 ainda no ar (5 meses)", "trafego_crux_mes": null },
+    { "loja": "Trueform", "dominio": "trueformwear.com", "page_ids": ["1232144683309943", "282042638315312"], "ativos": 497, "historico": 1181, "sobrevivencia_pct": 42,
+      "modelo": "dropship de marca de academia (camisetas muscle, moletom, suplemento)", "hero": "Muscle Dress Shirt - Stretch Fit, US$ 34,50 (de US$ 40)",
+      "angulo": "The Dress Shirt Guys Keep Coming Back For / A dress shirt that actually fits a muscular build", "longevidade": "desde 08/07",
+      "trafego_crux_mes": 95756 },
+    { "loja": "TexTale", "dominio": "textale.tech", "modelo": "dropship de marca generalista (95 produtos)", "angulo": "Sharp Without the Effort + Buy 2, Get 1 FREE", "longevidade": "desde 19/08", "contagem": "nao levantada nesta rodada" },
+    { "loja": "James Alden (henrycoleco.com)", "page_id": "713159881890971", "ativos": 27, "historico": 219, "sobrevivencia_pct": 12,
+      "angulo": "advertorial em video: Still Ironing? Read This. / Wrinkled by noon. Pit stains by 3." }
+  ],
+  "termos_frase_exata_eua_ativos": [
+    ["dress shirt", "2.800"], ["performance polo", "880"], ["stretch chino", "240"], ["stretch dress shirt", "70"],
+    ["performance dress shirt", "31"], ["non iron dress shirt", "12"], ["wrinkle free stretch", "12"], ["muscle fit dress shirt", "7"],
+    ["wrinkle free dress shirt", "6"], ["athletic fit shirt", "2"], ["athletic fit dress shirt", "0"], ["moisture wicking dress shirt", "0"],
+    ["sweat proof dress shirt", "0"], ["dress shirts for muscular", "0"], ["no ironing", "1.400 (inclui ferro a vapor e outras categorias)"]
+  ],
+  "criativos_rodada_1": { "total": 12, "no_ar": 2, "fora_do_ar": 10,
+    "nota": "Os 2 que seguem sao da Tailored Athlete (Tailored Without Going To The Tailor; Josh Mair). Os 2 atribuidos a SAVID em agosto nao estao entre os 28 anuncios da pagina da SAVID, e o snapshot de um deles mostra a pagina 'notselimb': provavel anuncio de criador/parceria, atribuido a SAVID por engano na rodada 1." },
+  "veredito": { "antes": "VALIDAR COM LIMITE", "agora": "VALIDAR COM LIMITE", "mudou": "o angulo de abertura e a oferta, nao a decisao" }
+}

@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ATHLOS — Performance Dress Shirts for Athletic Builds</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600;700&family=Inter:wght@400;500;600;700&display=swap');
+  *{margin:0;padding:0;box-sizing:border-box}
+  :root{--gr:#1C1F22;--mg:#3F6B4F;--bn:#F5F3EE;--sd:#D9C9AE;--tc:#B5542D;--st:#7A8085}
+  body{font-family:'Inter',sans-serif;background:var(--bn);color:var(--gr);line-height:1.5}
+  h1,h2,h3{font-family:'Space Grotesk',sans-serif}
+  .ph{background:var(--sd);border:1px dashed var(--st);display:flex;align-items:center;justify-content:center;color:var(--gr);font-size:12px;text-transform:uppercase;letter-spacing:.08em;text-align:center;padding:8px}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+  header.top{background:var(--gr);color:var(--bn);position:sticky;top:0;z-index:20}
+  .topbar{display:flex;align-items:center;justify-content:space-between;padding:16px 0}
+  .logo{font-family:'Space Grotesk';font-weight:700;font-size:22px;letter-spacing:.02em}
+  nav.menu{display:flex;gap:22px;font-size:13px;font-weight:600}
+  .icons{display:flex;gap:16px;font-size:13px}
+  .promo{background:var(--mg);color:#fff;text-align:center;font-size:12.5px;padding:7px 0;font-weight:600;letter-spacing:.02em}
+
+  .hero{display:grid;grid-template-columns:1fr;gap:0}
+  .hero .ph{height:460px;font-size:13px}
+  .hero-copy{padding:44px 20px;text-align:center}
+  .hero-copy .kick{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--mg);font-weight:700;margin-bottom:10px}
+  .hero-copy h1{font-size:clamp(28px,6vw,44px);line-height:1.08;margin-bottom:14px}
+  .hero-copy p{max-width:520px;margin:0 auto 22px;color:#44494c;font-size:15.5px}
+  .btn{display:inline-block;background:var(--mg);color:#fff;padding:14px 30px;border-radius:6px;font-weight:700;font-size:14px}
+  .btn.dk{background:var(--gr)}
+
+  .valuebar{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--st);border-top:1px solid var(--st);border-bottom:1px solid var(--st)}
+  .valuebar div{background:var(--bn);padding:18px 14px;text-align:center;font-size:12.5px;font-weight:700;color:var(--gr)}
+  .valuebar div span{display:block;font-size:20px;margin-bottom:4px}
+
+  section{padding:44px 0}
+  .sec-h{text-align:center;margin-bottom:26px}
+  .sec-h h2{font-size:26px}
+  .sec-h p{color:var(--st);font-size:14px;margin-top:6px}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .card{background:#fff;border-radius:10px;overflow:hidden;border:1px solid #e6e0d3}
+  .card .ph{height:210px}
+  .card .info{padding:12px 14px}
+  .card .info b{font-size:13.5px;display:block}
+  .card .info .p{color:var(--mg);font-weight:700;font-size:14px;margin-top:4px}
+  .card .info .p s{color:var(--st);font-weight:500;margin-left:6px}
+  .tag-hero{position:relative}
+  .tag-hero .badge{position:absolute;top:10px;left:10px;background:var(--tc);color:#fff;font-size:10.5px;font-weight:700;padding:4px 9px;border-radius:4px;z-index:2}
+
+  .bundle{background:var(--gr);color:var(--bn);border-radius:14px;padding:30px 22px;text-align:center;margin:0 20px}
+  .bundle h3{font-size:22px;margin-bottom:8px}
+  .bundle p{font-size:14px;color:#c7ccc6;margin-bottom:16px}
+
+  .transition{background:var(--sd)}
+  .transition .grid{grid-template-columns:1fr 1fr}
+  .transition .ph{height:280px}
+  .transition-copy{padding:0 20px 24px}
+  .transition-copy h2{font-size:24px;text-align:center;margin-bottom:8px}
+  .transition-copy p{text-align:center;font-size:14px;color:#4a4238;max-width:480px;margin:0 auto}
+
+  .proof{text-align:center}
+  .stars{color:var(--tc);font-size:18px;margin-bottom:6px}
+  .quotes{display:grid;grid-template-columns:1fr;gap:14px;margin-top:20px}
+  .quote{background:#fff;border:1px solid #e6e0d3;border-radius:10px;padding:16px;font-size:13.5px;color:#333;text-align:left}
+  .quote b{display:block;margin-top:8px;font-size:12px;color:var(--st)}
+
+  footer.bot{background:var(--gr);color:#c7ccc6;padding:36px 0;font-size:12.5px;text-align:center}
+
+  @media(min-width:760px){
+    .hero{grid-template-columns:1fr 1fr;align-items:center}
+    .hero .ph{height:560px}
+    .hero-copy{text-align:left;padding:0 40px}
+    .hero-copy p{margin:0 0 22px}
+    .valuebar{grid-template-columns:repeat(4,1fr)}
+    .grid{grid-template-columns:repeat(4,1fr)}
+    .transition .grid{grid-template-columns:1fr 1fr}
+    .quotes{grid-template-columns:repeat(3,1fr)}
+    nav.menu{display:flex}
+  }
+  @media(max-width:759px){ nav.menu{display:none} }
+</style>
+</head>
+<body>
+<div class="promo">Free shipping on orders $60+ · 14-day no-hassle guarantee</div>
+<header class="top"><div class="wrap topbar">
+  <div class="logo">ATHLOS</div>
+  <nav class="menu"><a href="#">Shirts</a><a href="#">Polos</a><a href="#">Pants</a><a href="#">Blazers</a><a href="#">Bundles</a></nav>
+  <div class="icons"><span>Search</span><span>Account</span><span>Cart (0)</span></div>
+</div></header>
+
+<div class="hero">
+  <div class="ph">IMAGE · lifestyle hero — man in ATHLOS shirt, gym-to-office transition</div>
+  <div class="hero-copy">
+    <div class="kick">Built for bodies that train</div>
+    <h1>From the gym to the boardroom. Same shirt.</h1>
+    <p>Athletic-tapered dress shirts and everyday essentials in 4-way stretch performance fabric. No ironing. No sweat marks. No compromise.</p>
+    <a class="btn" href="mockup-pdp.html">Shop the Long-Sleeve Shirt — $69.95</a>
+  </div>
+</div>
+
+<div class="valuebar">
+  <div><span>↔</span>4-Way Stretch</div>
+  <div><span>🚫</span>No Ironing</div>
+  <div><span>💧</span>Moisture-Wicking</div>
+  <div><span>✓</span>14-Day Guarantee</div>
+</div>
+
+<section><div class="wrap">
+  <div class="sec-h"><h2>Shop the collection</h2><p>7 pieces. One head-to-toe performance wardrobe.</p></div>
+  <div class="grid">
+    <div class="card tag-hero"><div class="badge">Hero</div><div class="ph">IMAGE · shirt front</div><div class="info"><b>Long-Sleeve Performance Dress Shirt</b><div class="p">$69.95 <s>$89.95</s></div></div></div>
+    <div class="card"><div class="ph">IMAGE · shirt front</div><div class="info"><b>Short-Sleeve Performance Dress Shirt</b><div class="p">$64.95</div></div></div>
+    <div class="card"><div class="ph">IMAGE · polo front</div><div class="info"><b>Performance Polo</b><div class="p">$54.95</div></div></div>
+    <div class="card"><div class="ph">IMAGE · chino flat-lay</div><div class="info"><b>Stretch Chino Ankle Fit</b><div class="p">$74.95</div></div></div>
+    <div class="card"><div class="ph">IMAGE · blazer on hanger</div><div class="info"><b>Stretch Sport Coat</b><div class="p">$149.95</div></div></div>
+    <div class="card"><div class="ph">IMAGE · belt coiled</div><div class="info"><b>Performance Belt</b><div class="p">$34.95</div></div></div>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="bundle">
+    <h3>Bundle & Save</h3>
+    <p>Add the Travel Collar Stay &amp; Care Kit at checkout for just $12.95 — our top add-on.</p>
+    <a class="btn dk" href="mockup-pdp.html">See the Shirt + Kit</a>
+  </div>
+</div></section>
+
+<section class="transition"><div class="wrap">
+  <div class="sec-h"><h2>One shirt, two lives</h2></div>
+  <div class="grid">
+    <div class="ph">IMAGE · gym scene, same shirt untucked/sleeves rolled</div>
+    <div class="ph">IMAGE · office scene, same shirt tucked, blazer on</div>
+  </div>
+  <div class="transition-copy"><p>Change context, not clothes. ATHLOS pieces are engineered to move from a workout to a client meeting without a wrinkle, a stain, or a wardrobe change.</p></div>
+</div></section>
+
+<section class="proof"><div class="wrap">
+  <div class="sec-h"><h2>What customers say</h2><div class="stars">★★★★★</div></div>
+  <div class="quotes">
+    <div class="quote">"First dress shirt that doesn't pull across my chest when I move. Wore it straight from the gym to a client dinner."<b>— Marcus T., verified buyer</b></div>
+    <div class="quote">"No ironing, no exceptions. I've washed mine 20+ times and it still looks new."<b>— Diego R., verified buyer</b></div>
+    <div class="quote">"Finally a shirt sized for someone who lifts. The bump kit is a nice touch too."<b>— Andre K., verified buyer</b></div>
+  </div>
+</div></section>
+
+<footer class="bot"><div class="wrap">ATHLOS · Performance menswear for athletic builds · Free shipping $60+ · 14-day guarantee · Prototype layout — final photography pending</div></footer>
+</body>
+</html>
